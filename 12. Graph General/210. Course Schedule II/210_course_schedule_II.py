@@ -1,31 +1,32 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        adj = collections.defaultdict(list)
-        output = []
+        graph = collections.defaultdict(list)
+        order = []
 
-        for p in prerequisites:
-            a, b = p
-            adj[a].append(b)
+        for course, prereq in prerequisites:
+            graph[course].append(prereq)
         
-        visit, cycle = set(), set()
-
-        def dfs(course):
-            if course in visit:
+        safe, visiting = set(), set()
+        
+        def dfs(i):
+            if i in safe:
                 return True
-            if course in cycle:
+            if i in visiting:
                 return False
-            
-            cycle.add(course)
-            for c in adj[course]:
-                if dfs(c) == False:
+
+            visiting.add(i)
+            for j in graph[i]:
+                if dfs(j) == False:
                     return False
             
-            cycle.remove(course)
-            visit.add(course)
-            output.append(course)
-            return True
+            visiting.remove(i)
+            safe.add(i)
+            order.append(i)
 
-        for c in range(numCourses):
-            if dfs(c) == False:
+            return True
+        
+        for i in range(numCourses):
+            if dfs(i) == False:
                 return []
-        return output
+        
+        return order

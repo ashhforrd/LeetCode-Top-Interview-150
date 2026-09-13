@@ -1,33 +1,28 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        adj = collections.defaultdict(list)
-        safe = set()
+        graph = collections.defaultdict(list)
+        safe, visiting = set(), set()
 
-        for prereq in prerequisites:
-            course, requisite = prereq
-            adj[course].append(requisite)
-    
-        def dfs(j, visit):
-            if j in visit:
+        for course, prereq in prerequisites:
+            graph[course].append(prereq)
+        
+        def dfs(i):
+            if i in safe:
+                return True
+            if i in visiting:
                 return False
             
-            if j in safe:
-                return True
-
-            visit.add(j)
-
-            for k in adj[j]:
-                if dfs(k, visit) == False:
+            visiting.add(i)
+            for j in graph[i]:
+                if dfs(j) == False:
                     return False
-                
-            visit.remove(j)
-            safe.add(j)
+            
+            visiting.remove(i)
+            safe.add(i)
             return True
-
+        
         for i in range(numCourses):
-            visit = set()
-
-            if dfs(i, visit) == False:
+            if dfs(i) == False:
                 return False
-                
+        
         return True
