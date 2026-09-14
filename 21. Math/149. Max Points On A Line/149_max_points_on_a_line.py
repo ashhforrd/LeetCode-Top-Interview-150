@@ -2,14 +2,19 @@ from math import gcd
 
 class Solution:
     def maxPoints(self, points: List[List[int]]) -> int:
+        n = len(points)
+
+        if n <= 2:
+            return n
         
-        hashPoints = {}
-        for p in points:
-            hashPoints[tuple((p[0], p[1]))] = {}
+        maximum = 1
 
         for i in range(len(points)):
+            slopeCount = {}
+
+            xi, yi = points[i]
+
             for j in range(i + 1, len(points)):
-                xi, yi = points[i]
                 xj, yj = points[j]
 
                 dx, dy = xj - xi, yj - yi
@@ -26,17 +31,11 @@ class Solution:
 
                 if dy == 0:
                     dx = 1
+                
+                slope = (dx, dy)
 
-                if tuple((dx, dy)) not in hashPoints[tuple((xi, yi))]:
-                    hashPoints[tuple((xi, yi))][tuple((dx, dy))] = 2
-                else:
-                    hashPoints[tuple((xi, yi))][tuple((dx, dy))] += 1
+                slopeCount[slope] = slopeCount.get(slope, 1) + 1
+
+                maximum = max(maximum, slopeCount[slope])
         
-        # Mencari value terbesar set dalam set
-        maximum = 1
-
-        for inner in hashPoints.values():
-            if inner:
-                maximum = max(maximum, max(inner.values()))
-
         return maximum
