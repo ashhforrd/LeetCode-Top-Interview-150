@@ -4,23 +4,20 @@ class Solution:
             return ["()"]
 
         length = n * 2
-        open_count = 0
-        close_count = 0
-        result = ""
-        final = []
+        openCount, closeCount = 0, 0
 
-        self.summonParenthesis(result, length, n, open_count, close_count, final)
+        curr = ""
+        res = []
 
-        return final
-    
-    def summonParenthesis(self, result, length, n, open_count, close_count, final):
-        if len(result) == length:
-            final.append(result)
+        def generate(curr, openCount, closeCount):
+            if len(curr) == length:
+                res.append(curr)
+            
+            if openCount < n:
+                generate(curr + "(", openCount + 1, closeCount)
+            if closeCount < openCount:
+                generate(curr + ")", openCount, closeCount + 1)
 
-        if open_count < n:
-            temp = result + "("
-            self.summonParenthesis(temp, length, n, open_count+1, close_count, final)
-        
-        if close_count < open_count:
-            temp = result + ")"
-            self.summonParenthesis(temp, length, n, open_count, close_count+1, final)
+        generate(curr, openCount, closeCount)
+
+        return res

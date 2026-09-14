@@ -3,17 +3,16 @@ class Solution:
         if len(nums) == 1:
             return [nums]
         
-        result = []
-        temp = []
-        
-        self.generate(nums, result, temp)
+        res, perm = [], []
 
-        return result
-
-    def generate(self, nums, result, temp):
-        if len(temp) == len(nums):
-            result.append(temp)
+        def generate(nums, perm):
+            if len(perm) == len(nums):
+                res.append(perm)
+                return
             
-        for i in range(len(nums)):
-            if nums[i] not in temp:
-                self.generate(nums, result, temp + [nums[i]])
+            for i in range(len(nums)):
+                if nums[i] not in perm:
+                    generate(nums, perm + [nums[i]])
+        
+        generate(nums, perm)
+        return res

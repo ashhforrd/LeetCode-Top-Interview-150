@@ -17,9 +17,7 @@ class Solution:
             chars = []
             for n in result:
                 for c in mapping[d]:
-                    chars.append(n+c)
+                    chars.append(n + c)
             result = chars
-                
-            
-
+        
         return result
