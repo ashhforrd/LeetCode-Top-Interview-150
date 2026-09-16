@@ -1,9 +1,7 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        top = 0 # pasti kanan
-        bottom = len(matrix) - 1 # pasti kiri
-        left = 0 # psati atas
-        right = len(matrix[0]) - 1 # pasti bawah
+        top, bottom = 0, len(matrix) - 1
+        left, right = 0, len(matrix[0]) - 1 
 
         status = "top"
         result = []

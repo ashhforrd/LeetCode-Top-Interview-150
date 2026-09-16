@@ -1,12 +1,12 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        string_map = {}
+        char = {}
 
         for i in range(len(s)):
-            if s[i] not in string_map:
-                string_map[s[i]] = t[i] if t[i] not in string_map.values() else ""
+            if s[i] not in char:
+                char[s[i]] = t[i] if t[i] not in char.values() else ""
             
-            if t[i] != string_map[s[i]]:
+            if t[i] != char[s[i]]:
                 return False
         
         return True
