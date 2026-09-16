@@ -1,37 +1,36 @@
 class Solution:
     def findSubstring(self, s: str, words: List[str]) -> List[int]:
-        output = []
-        lenS = len(s)
-        lenW = len(words[0])
+        indices = []
+        strLen, wordLen = len(s), len(words[0])
 
-        baseMap = {}
-        for w in words:
-            baseMap[w] = baseMap.get(w, 0) + 1
+        wordMap = {}
+        for word in words:
+            wordMap[word] = wordMap.get(word, 0) + 1
+        
+        for i in range(wordLen):
+            left, right = i, i
+            wordHash = wordMap.copy()
 
-        for offset in range(lenW):
-            L = offset
-            R = offset
-            hashWords = baseMap.copy()
+            while right + wordLen <= strLen:
+                word = s[right: right + wordLen]
+                right += wordLen
 
-            while R + lenW <= lenS:
-                word = s[R:R+lenW]
-                R += lenW
+                if word in wordHash:
+                    wordHash[word] -= 1
 
-                if word in hashWords:
-                    hashWords[word] -= 1
-
-                    while hashWords[word] < 0:
-                        leftWord = s[L:L+lenW]
-                        hashWords[leftWord] += 1
-                        L += lenW
+                    while wordHash[word] < 0:
+                        leftWord = s[left: left + wordLen]
+                        wordHash[leftWord] += 1
+                        left += wordLen
                     
-                    if all(v == 0 for v in hashWords.values()):
-                        output.append(L)
-                        firstWord = s[L:L+lenW]
-                        hashWords[firstWord] += 1
-                        L += lenW
+                    if all(v == 0 for v in wordHash.values()):
+                        indices.append(left)
+                        leftWord = s[left: left + wordLen]
+                        wordHash[leftWord] += 1
+                        left += wordLen
+
                 else:
-                    hashWords = baseMap.copy()
-                    L = R
-            
-        return output
+                    wordHash = wordMap.copy()
+                    left = right
+                
+        return indices

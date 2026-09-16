@@ -1,25 +1,28 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        output = ""
-        left, right = 0, 0
+        substring = ""
 
         if len(s) < len(t):
             return ""
 
-        tMap = {}
-        for char in t:
-            tMap[char] = tMap.get(char, 0) + 1
+        wordMap = {}
+        for c in t:
+            wordMap[c] = wordMap.get(c, 0) + 1
         
-        while right < len(s):
-            if s[right] in tMap:
-                tMap[s[right]] -= 1
+        left, right = 0, 0
+        for right in range(len(s)):
+            if s[right] in wordMap:
+                wordMap[s[right]] -= 1
             
-            while all(c <= 0 for c in tMap.values()):
-                temp = s[left: right + 1]
-                if output == "" or len(temp) < len(output): output = temp
-                if s[left] in tMap: tMap[s[left]] += 1
-                left += 1
+            while all(v <= 0 for v in wordMap.values()):
+                word = s[left: right+1]
 
-            right += 1
-        
-        return output
+                if substring == "" or len(word) < len(substring):
+                    substring = word
+
+                if s[left] in wordMap:
+                    wordMap[s[left]] += 1
+                
+                left += 1
+                    
+        return substring
