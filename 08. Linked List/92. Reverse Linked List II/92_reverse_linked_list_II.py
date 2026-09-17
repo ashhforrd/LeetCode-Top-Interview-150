@@ -4,32 +4,20 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
-        current = head
+    def reverseBetween(self, head: ListNode | None, left: int, right: int) -> ListNode | None:
+        result = ListNode(0, head)
 
-        nodeMap = {}
-        counter = 1
-        while current:
-            nodeMap[counter] = current.val
-            counter += 1
-            current = current.next
+        leftPrev, curr = result, head
+        for _ in range(left - 1):
+            leftPrev, curr = curr, curr.next
         
-        output = ListNode()
-        pointer = output
-
-        i = 1
-        while i <= len(nodeMap):
-            if i == left:
-                for j in range(right, left-1, -1):
-                    pointer.next = ListNode(nodeMap[j])
-                    pointer = pointer.next
-                i = right + 1
-            else:
-                pointer.next = ListNode(nodeMap[i])
-                pointer = pointer.next
-                i += 1
-                    
-        return output.next
-
-
+        prev = None
+        for _ in range(right - left + 1):
+            nxt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nxt
         
+        leftPrev.next.next = curr
+        leftPrev.next = prev
+        return result.next

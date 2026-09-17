@@ -3,11 +3,6 @@ class Solution:
         intervals.append(newInterval)
         intervals.sort(key=lambda x: x[0])
 
-        # for i in range(len(intervals)):
-        #     if newInterval[0] >= intervals[i][0]:
-        #         intervals.insert(i, newInterval)
-        #         break
-        print(intervals)
         result = []
         current = intervals[0]
 

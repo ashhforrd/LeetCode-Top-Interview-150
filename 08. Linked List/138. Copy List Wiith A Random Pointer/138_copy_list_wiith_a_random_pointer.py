@@ -11,28 +11,28 @@ class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         if not head:
             return None
-        
-        hashNode = {}
 
-        current = head
-        while current:
-            hashNode[current] = Node(current.val)
-            current = current.next
-        
-        current = head
-        while current:
-            copyNode = hashNode[current]
+        nodes = {}
 
-            if current.next:
-                copyNode.next = hashNode[current.next]
+        curr = head
+        while curr:
+            nodes[curr] = Node(curr.val)
+            curr = curr.next
+        
+        curr = head
+        while curr:
+            copy = nodes[curr]
+
+            if curr.next:
+                copy.next = nodes[curr.next]
             else:
-                copyNode.next = None
+                copy.next = None
             
-            if current.random:
-                copyNode.random = hashNode[current.random]
+            if curr.random:
+                copy.random = nodes[curr.random]
             else:
-                copyNode.random = None
+                copy.random = None
+            
+            curr = curr.next
         
-            current = current.next
-        
-        return hashNode[head]
+        return nodes[head]

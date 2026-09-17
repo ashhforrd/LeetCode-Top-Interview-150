@@ -1,35 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        storage = []
+        stack = []
 
-        if len(s) == 0: return True
-
-        if len(s) == 1: return False
-
-        for i in range(len(s)):
-            if s[i] == "(" or s[i] == "[" or s[i] == "{":
-                storage += s[i]
+        for c in s:
+            if c in "([{":
+                stack.append(c)
             else:
-                if not storage:
+                if not stack:
                     return False
-                if s[i] == ")":
-                    if storage.pop() == "(":
-                        continue
-                    else:
+                top = stack.pop()
+                if c == ")" and top != "(":
                         return False
-                elif s[i] == "]":
-                    if storage.pop() == "[":
-                        continue
-                    else:
+                elif c == "]" and top != "[":
                         return False
-                elif s[i] == "}":
-                    if storage.pop() == "{":
-                        continue
-                    else:
+                elif c == "}" and top != "{":
                         return False
-                else:
-                    return False
-        if storage:
-                return False
-        return True
-            
+ 
+        return len(stack) == 0
