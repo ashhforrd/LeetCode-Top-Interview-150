@@ -1,0 +1,1101 @@
+[
+  {
+    "id": 1,
+    "slug": "two-sum",
+    "solution": "0001-two-sum/solution.py",
+    "submission": "https://leetcode.com/problems/two-sum/submissions/2189275215",
+    "submitted_at_display": null
+  },
+  {
+    "id": 2,
+    "slug": "add-two-numbers",
+    "solution": "0002-add-two-numbers/solution.py",
+    "submission": "https://leetcode.com/problems/add-two-numbers/submissions/2040692314",
+    "submitted_at_display": null
+  },
+  {
+    "id": 3,
+    "slug": "longest-substring-without-repeating-characters",
+    "solution": "0003-longest-substring-without-repeating-characters/solution.py",
+    "submission": "https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2143462107",
+    "submitted_at_display": "Sep 16, 2026 15:38"
+  },
+  {
+    "id": 4,
+    "slug": "median-of-two-sorted-arrays",
+    "solution": "0004-median-of-two-sorted-arrays/solution.py",
+    "submission": "https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2070763840",
+    "submitted_at_display": "Jul 17, 2026 13:43"
+  },
+  {
+    "id": 5,
+    "slug": "longest-palindromic-substring",
+    "solution": "0005-longest-palindromic-substring/solution.py",
+    "submission": "https://leetcode.com/problems/longest-palindromic-substring/submissions/2151756113",
+    "submitted_at_display": "Sep 24, 2026 15:04"
+  },
+  {
+    "id": 6,
+    "slug": "zigzag-conversion",
+    "solution": "0006-zigzag-conversion/solution.py",
+    "submission": "https://leetcode.com/problems/zigzag-conversion/submissions/2043074097",
+    "submitted_at_display": "Jun 23, 2026 14:34"
+  },
+  {
+    "id": 7,
+    "slug": "reverse-integer",
+    "solution": "0007-reverse-integer/solution.py",
+    "submission": "https://leetcode.com/problems/reverse-integer/submissions/1982697329",
+    "submitted_at_display": "Apr 19, 2026 20:40"
+  },
+  {
+    "id": 8,
+    "slug": "string-to-integer-atoi",
+    "solution": "0008-string-to-integer-atoi/solution.py",
+    "submission": "https://leetcode.com/problems/string-to-integer-atoi/submissions/1982798997",
+    "submitted_at_display": "Apr 19, 2026 22:56"
+  },
+  {
+    "id": 9,
+    "slug": "palindrome-number",
+    "solution": "0009-palindrome-number/solution.py",
+    "submission": "https://leetcode.com/problems/palindrome-number/submissions/2041227142",
+    "submitted_at_display": "Jun 22, 2026 00:05"
+  },
+  {
+    "id": 11,
+    "slug": "container-with-most-water",
+    "solution": "0011-container-with-most-water/solution.py",
+    "submission": "https://leetcode.com/problems/container-with-most-water/submissions/2173841498",
+    "submitted_at_display": "Oct 16, 2026 20:14"
+  },
+  {
+    "id": 12,
+    "slug": "integer-to-roman",
+    "solution": "0012-integer-to-roman/solution.py",
+    "submission": "https://leetcode.com/problems/integer-to-roman/submissions/2043074326",
+    "submitted_at_display": "Jun 23, 2026 14:35"
+  },
+  {
+    "id": 13,
+    "slug": "roman-to-integer",
+    "solution": "0013-roman-to-integer/solution.py",
+    "submission": "https://leetcode.com/problems/roman-to-integer/submissions/1739594324",
+    "submitted_at_display": "Aug 18, 2025 19:36"
+  },
+  {
+    "id": 14,
+    "slug": "longest-common-prefix",
+    "solution": "0014-longest-common-prefix/solution.py",
+    "submission": "https://leetcode.com/problems/longest-common-prefix/submissions/1739621603",
+    "submitted_at_display": "Aug 18, 2025 20:06"
+  },
+  {
+    "id": 15,
+    "slug": "3sum",
+    "solution": "0015-3sum/solution.py",
+    "submission": "https://leetcode.com/problems/3sum/submissions/2143454173",
+    "submitted_at_display": "Sep 16, 2026 15:27"
+  },
+  {
+    "id": 16,
+    "slug": "3sum-closest",
+    "solution": "0016-3sum-closest/solution.py",
+    "submission": "https://leetcode.com/problems/3sum-closest/submissions/1984156816",
+    "submitted_at_display": "Apr 21, 2026 12:13"
+  },
+  {
+    "id": 17,
+    "slug": "letter-combinations-of-a-phone-number",
+    "solution": "0017-letter-combinations-of-a-phone-number/solution.py",
+    "submission": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/2141128553",
+    "submitted_at_display": "Sep 14, 2026 09:54"
+  },
+  {
+    "id": 18,
+    "slug": "4sum",
+    "solution": "0018-4sum/solution.py",
+    "submission": "https://leetcode.com/problems/4sum/submissions/1994164191",
+    "submitted_at_display": "May 03, 2026 19:33"
+  },
+  {
+    "id": 19,
+    "slug": "remove-nth-node-from-end-of-list",
+    "solution": "0019-remove-nth-node-from-end-of-list/solution.py",
+    "submission": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2069766085",
+    "submitted_at_display": "Jul 16, 2026 18:00"
+  },
+  {
+    "id": 20,
+    "slug": "valid-parentheses",
+    "solution": "0020-valid-parentheses/solution.py",
+    "submission": "https://leetcode.com/problems/valid-parentheses/submissions/2144221698",
+    "submitted_at_display": "Sep 17, 2026 09:37"
+  },
+  {
+    "id": 21,
+    "slug": "merge-two-sorted-lists",
+    "solution": "0021-merge-two-sorted-lists/solution.py",
+    "submission": "https://leetcode.com/problems/merge-two-sorted-lists/submissions/2040692528",
+    "submitted_at_display": "Jun 21, 2026 14:04"
+  },
+  {
+    "id": 22,
+    "slug": "generate-parentheses",
+    "solution": "0022-generate-parentheses/solution.py",
+    "submission": "https://leetcode.com/problems/generate-parentheses/submissions/2141139196",
+    "submitted_at_display": "Sep 14, 2026 10:19"
+  },
+  {
+    "id": 23,
+    "slug": "merge-k-sorted-lists",
+    "solution": "0023-merge-k-sorted-lists/solution.py",
+    "submission": "https://leetcode.com/problems/merge-k-sorted-lists/submissions/2115436814",
+    "submitted_at_display": "Aug 22, 2026 01:51"
+  },
+  {
+    "id": 24,
+    "slug": "swap-nodes-in-pairs",
+    "solution": "0024-swap-nodes-in-pairs/solution.py",
+    "submission": "https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1994213932",
+    "submitted_at_display": "May 03, 2026 20:51"
+  },
+  {
+    "id": 25,
+    "slug": "reverse-nodes-in-k-group",
+    "solution": "0025-reverse-nodes-in-k-group/solution.py",
+    "submission": "https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2144262603",
+    "submitted_at_display": "Sep 17, 2026 10:50"
+  },
+  {
+    "id": 26,
+    "slug": "remove-duplicates-from-sorted-array",
+    "solution": "0026-remove-duplicates-from-sorted-array/solution.py",
+    "submission": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2068468486",
+    "submitted_at_display": "Jul 15, 2026 17:18"
+  },
+  {
+    "id": 27,
+    "slug": "remove-element",
+    "solution": "0027-remove-element/solution.py",
+    "submission": "https://leetcode.com/problems/remove-element/submissions/2038479580",
+    "submitted_at_display": "Jun 19, 2026 15:16"
+  },
+  {
+    "id": 28,
+    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "solution": "0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py",
+    "submission": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1739652563",
+    "submitted_at_display": "Aug 18, 2025 20:36"
+  },
+  {
+    "id": 29,
+    "slug": "divide-two-integers",
+    "solution": "0029-divide-two-integers/solution.py",
+    "submission": "https://leetcode.com/problems/divide-two-integers/submissions/1998601604",
+    "submitted_at_display": "May 09, 2026 13:27"
+  },
+  {
+    "id": 30,
+    "slug": "substring-with-concatenation-of-all-words",
+    "solution": "0030-substring-with-concatenation-of-all-words/solution.py",
+    "submission": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/2143538394",
+    "submitted_at_display": "Sep 16, 2026 17:14"
+  },
+  {
+    "id": 31,
+    "slug": "next-permutation",
+    "solution": "0031-next-permutation/solution.py",
+    "submission": "https://leetcode.com/problems/next-permutation/submissions/1998747422",
+    "submitted_at_display": "May 09, 2026 17:46"
+  },
+  {
+    "id": 32,
+    "slug": "longest-valid-parentheses",
+    "solution": "0032-longest-valid-parentheses/solution.py",
+    "submission": "https://leetcode.com/problems/longest-valid-parentheses/submissions/1998770961",
+    "submitted_at_display": "May 09, 2026 18:30"
+  },
+  {
+    "id": 33,
+    "slug": "search-in-rotated-sorted-array",
+    "solution": "0033-search-in-rotated-sorted-array/solution.py",
+    "submission": "https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2041189500",
+    "submitted_at_display": "Jun 21, 2026 23:28"
+  },
+  {
+    "id": 34,
+    "slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "solution": "0034-find-first-and-last-position-of-element-in-sorted-array/solution.py",
+    "submission": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2045806366",
+    "submitted_at_display": "Jun 25, 2026 20:00"
+  },
+  {
+    "id": 35,
+    "slug": "search-insert-position",
+    "solution": "0035-search-insert-position/solution.py",
+    "submission": "https://leetcode.com/problems/search-insert-position/submissions/2113902597",
+    "submitted_at_display": "Aug 20, 2026 19:17"
+  },
+  {
+    "id": 36,
+    "slug": "valid-sudoku",
+    "solution": "0036-valid-sudoku/solution.py",
+    "submission": "https://leetcode.com/problems/valid-sudoku/submissions/2069263831",
+    "submitted_at_display": "Jul 16, 2026 10:25"
+  },
+  {
+    "id": 38,
+    "slug": "count-and-say",
+    "solution": "0038-count-and-say/solution.py",
+    "submission": "https://leetcode.com/problems/count-and-say/submissions/2004145982",
+    "submitted_at_display": "May 16, 2026 05:38"
+  },
+  {
+    "id": 39,
+    "slug": "combination-sum",
+    "solution": "0039-combination-sum/solution.py",
+    "submission": "https://leetcode.com/problems/combination-sum/submissions/2141134186",
+    "submitted_at_display": "Sep 14, 2026 10:08"
+  },
+  {
+    "id": 40,
+    "slug": "combination-sum-ii",
+    "solution": "0040-combination-sum-ii/solution.py",
+    "submission": "https://leetcode.com/problems/combination-sum-ii/submissions/2004487789",
+    "submitted_at_display": "May 16, 2026 17:08"
+  },
+  {
+    "id": 41,
+    "slug": "first-missing-positive",
+    "solution": "0041-first-missing-positive/solution.py",
+    "submission": "https://leetcode.com/problems/first-missing-positive/submissions/1998958529",
+    "submitted_at_display": "May 09, 2026 22:10"
+  },
+  {
+    "id": 42,
+    "slug": "trapping-rain-water",
+    "solution": "0042-trapping-rain-water/solution.py",
+    "submission": "https://leetcode.com/problems/trapping-rain-water/submissions/2068835109",
+    "submitted_at_display": "Jul 15, 2026 23:08"
+  },
+  {
+    "id": 43,
+    "slug": "multiply-strings",
+    "solution": "0043-multiply-strings/solution.py",
+    "submission": "https://leetcode.com/problems/multiply-strings/submissions/1999002183",
+    "submitted_at_display": "May 09, 2026 22:36"
+  },
+  {
+    "id": 45,
+    "slug": "jump-game-ii",
+    "solution": "0045-jump-game-ii/solution.py",
+    "submission": "https://leetcode.com/problems/jump-game-ii/submissions/2068668775",
+    "submitted_at_display": "Jul 15, 2026 20:45"
+  },
+  {
+    "id": 46,
+    "slug": "permutations",
+    "solution": "0046-permutations/solution.py",
+    "submission": "https://leetcode.com/problems/permutations/submissions/2151846877",
+    "submitted_at_display": "Sep 24, 2026 16:52"
+  },
+  {
+    "id": 47,
+    "slug": "permutations-ii",
+    "solution": "0047-permutations-ii/solution.py",
+    "submission": "https://leetcode.com/problems/permutations-ii/submissions/2004529495",
+    "submitted_at_display": "May 16, 2026 18:09"
+  },
+  {
+    "id": 48,
+    "slug": "rotate-image",
+    "solution": "0048-rotate-image/solution.py",
+    "submission": "https://leetcode.com/problems/rotate-image/submissions/2043074872",
+    "submitted_at_display": "Jun 23, 2026 14:35"
+  },
+  {
+    "id": 49,
+    "slug": "group-anagrams",
+    "solution": "0049-group-anagrams/solution.py",
+    "submission": "https://leetcode.com/problems/group-anagrams/submissions/2143555837",
+    "submitted_at_display": "Sep 16, 2026 17:36"
+  },
+  {
+    "id": 50,
+    "slug": "powx-n",
+    "solution": "0050-powx-n/solution.py",
+    "submission": "https://leetcode.com/problems/powx-n/submissions/2041243467",
+    "submitted_at_display": "Jun 22, 2026 00:20"
+  },
+  {
+    "id": 51,
+    "slug": "n-queens",
+    "solution": "0051-n-queens/solution.py",
+    "submission": "https://leetcode.com/problems/n-queens/submissions/2133981381",
+    "submitted_at_display": "Sep 07, 2026 21:21"
+  },
+  {
+    "id": 52,
+    "slug": "n-queens-ii",
+    "solution": "0052-n-queens-ii/solution.py",
+    "submission": "https://leetcode.com/problems/n-queens-ii/submissions/2150839375",
+    "submitted_at_display": "Sep 23, 2026 19:00"
+  },
+  {
+    "id": 53,
+    "slug": "maximum-subarray",
+    "solution": "0053-maximum-subarray/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-subarray/submissions/2043669337",
+    "submitted_at_display": "Jun 24, 2026 00:02"
+  },
+  {
+    "id": 54,
+    "slug": "spiral-matrix",
+    "solution": "0054-spiral-matrix/solution.py",
+    "submission": "https://leetcode.com/problems/spiral-matrix/submissions/2041862934",
+    "submitted_at_display": "Jun 22, 2026 15:03"
+  },
+  {
+    "id": 55,
+    "slug": "jump-game",
+    "solution": "0055-jump-game/solution.py",
+    "submission": "https://leetcode.com/problems/jump-game/submissions/2043572784",
+    "submitted_at_display": "Jun 23, 2026 22:42"
+  },
+  {
+    "id": 56,
+    "slug": "merge-intervals",
+    "solution": "0056-merge-intervals/solution.py",
+    "submission": "https://leetcode.com/problems/merge-intervals/submissions/2144220209",
+    "submitted_at_display": "Sep 17, 2026 09:34"
+  },
+  {
+    "id": 57,
+    "slug": "insert-interval",
+    "solution": "0057-insert-interval/solution.py",
+    "submission": "https://leetcode.com/problems/insert-interval/submissions/2042465739",
+    "submitted_at_display": "Jun 23, 2026 00:11"
+  },
+  {
+    "id": 58,
+    "slug": "length-of-last-word",
+    "solution": "0058-length-of-last-word/solution.py",
+    "submission": "https://leetcode.com/problems/length-of-last-word/submissions/2068862848",
+    "submitted_at_display": "Jul 15, 2026 23:29"
+  },
+  {
+    "id": 59,
+    "slug": "spiral-matrix-ii",
+    "solution": "0059-spiral-matrix-ii/solution.py",
+    "submission": "https://leetcode.com/problems/spiral-matrix-ii/submissions/2075253457",
+    "submitted_at_display": "Jul 21, 2026 11:01"
+  },
+  {
+    "id": 61,
+    "slug": "rotate-list",
+    "solution": "0061-rotate-list/solution.py",
+    "submission": "https://leetcode.com/problems/rotate-list/submissions/2079570540",
+    "submitted_at_display": "Jul 24, 2026 19:42"
+  },
+  {
+    "id": 62,
+    "slug": "unique-paths",
+    "solution": "0062-unique-paths/solution.py",
+    "submission": "https://leetcode.com/problems/unique-paths/submissions/2025212158",
+    "submitted_at_display": "Jun 07, 2026 16:32"
+  },
+  {
+    "id": 63,
+    "slug": "unique-paths-ii",
+    "solution": "0063-unique-paths-ii/solution.py",
+    "submission": "https://leetcode.com/problems/unique-paths-ii/submissions/2141330961",
+    "submitted_at_display": "Sep 14, 2026 14:46"
+  },
+  {
+    "id": 64,
+    "slug": "minimum-path-sum",
+    "solution": "0064-minimum-path-sum/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-path-sum/submissions/2141326122",
+    "submitted_at_display": "Sep 14, 2026 14:39"
+  },
+  {
+    "id": 66,
+    "slug": "plus-one",
+    "solution": "0066-plus-one/solution.py",
+    "submission": "https://leetcode.com/problems/plus-one/submissions/2041227874",
+    "submitted_at_display": "Jun 22, 2026 00:05"
+  },
+  {
+    "id": 67,
+    "slug": "add-binary",
+    "solution": "0067-add-binary/solution.py",
+    "submission": "https://leetcode.com/problems/add-binary/submissions/2041225366",
+    "submitted_at_display": "Jun 22, 2026 00:03"
+  },
+  {
+    "id": 68,
+    "slug": "text-justification",
+    "solution": "0068-text-justification/solution.py",
+    "submission": "https://leetcode.com/problems/text-justification/submissions/2136279331",
+    "submitted_at_display": "Sep 09, 2026 18:48"
+  },
+  {
+    "id": 69,
+    "slug": "sqrtx",
+    "solution": "0069-sqrtx/solution.py",
+    "submission": "https://leetcode.com/problems/sqrtx/submissions/2112640972",
+    "submitted_at_display": "Aug 19, 2026 18:54"
+  },
+  {
+    "id": 70,
+    "slug": "climbing-stairs",
+    "solution": "0070-climbing-stairs/solution.py",
+    "submission": "https://leetcode.com/problems/climbing-stairs/submissions/2041538703",
+    "submitted_at_display": "Jun 22, 2026 10:13"
+  },
+  {
+    "id": 71,
+    "slug": "simplify-path",
+    "solution": "0071-simplify-path/solution.py",
+    "submission": "https://leetcode.com/problems/simplify-path/submissions/2138693795",
+    "submitted_at_display": "Sep 11, 2026 22:36"
+  },
+  {
+    "id": 72,
+    "slug": "edit-distance",
+    "solution": "0072-edit-distance/solution.py",
+    "submission": "https://leetcode.com/problems/edit-distance/submissions/2174532946",
+    "submitted_at_display": "Oct 17, 2026 19:00"
+  },
+  {
+    "id": 73,
+    "slug": "set-matrix-zeroes",
+    "solution": "0073-set-matrix-zeroes/solution.py",
+    "submission": "https://leetcode.com/problems/set-matrix-zeroes/submissions/2043076033",
+    "submitted_at_display": "Jun 23, 2026 14:37"
+  },
+  {
+    "id": 74,
+    "slug": "search-a-2d-matrix",
+    "solution": "0074-search-a-2d-matrix/solution.py",
+    "submission": "https://leetcode.com/problems/search-a-2d-matrix/submissions/2041142477",
+    "submitted_at_display": "Jun 21, 2026 22:38"
+  },
+  {
+    "id": 75,
+    "slug": "sort-colors",
+    "solution": "0075-sort-colors/solution.py",
+    "submission": "https://leetcode.com/problems/sort-colors/submissions/2029765355",
+    "submitted_at_display": "Jun 11, 2026 20:15"
+  },
+  {
+    "id": 76,
+    "slug": "minimum-window-substring",
+    "solution": "0076-minimum-window-substring/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-window-substring/submissions/2143545627",
+    "submitted_at_display": "Sep 16, 2026 17:23"
+  },
+  {
+    "id": 77,
+    "slug": "combinations",
+    "solution": "0077-combinations/solution.py",
+    "submission": "https://leetcode.com/problems/combinations/submissions/2141130235",
+    "submitted_at_display": "Sep 14, 2026 09:58"
+  },
+  {
+    "id": 78,
+    "slug": "subsets",
+    "solution": "0078-subsets/solution.py",
+    "submission": "https://leetcode.com/problems/subsets/submissions/2029894407",
+    "submitted_at_display": "Jun 11, 2026 22:33"
+  },
+  {
+    "id": 79,
+    "slug": "word-search",
+    "solution": "0079-word-search/solution.py",
+    "submission": "https://leetcode.com/problems/word-search/submissions/2151898956",
+    "submitted_at_display": "Sep 24, 2026 17:55"
+  },
+  {
+    "id": 80,
+    "slug": "remove-duplicates-from-sorted-array-ii",
+    "solution": "0080-remove-duplicates-from-sorted-array-ii/solution.py",
+    "submission": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/2041702556",
+    "submitted_at_display": "Jun 22, 2026 12:51"
+  },
+  {
+    "id": 81,
+    "slug": "search-in-rotated-sorted-array-ii",
+    "solution": "0081-search-in-rotated-sorted-array-ii/solution.py",
+    "submission": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2190003076",
+    "submitted_at_display": "Nov 05, 2026 17:48"
+  },
+  {
+    "id": 82,
+    "slug": "remove-duplicates-from-sorted-list-ii",
+    "solution": "0082-remove-duplicates-from-sorted-list-ii/solution.py",
+    "submission": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/submissions/2079546062",
+    "submitted_at_display": "Jul 24, 2026 19:14"
+  },
+  {
+    "id": 83,
+    "slug": "remove-duplicates-from-sorted-list",
+    "solution": "0083-remove-duplicates-from-sorted-list/solution.py",
+    "submission": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2131862900",
+    "submitted_at_display": "Sep 05, 2026 22:26"
+  },
+  {
+    "id": 86,
+    "slug": "partition-list",
+    "solution": "0086-partition-list/solution.py",
+    "submission": "https://leetcode.com/problems/partition-list/submissions/2185193416",
+    "submitted_at_display": "Oct 30, 2026 11:01"
+  },
+  {
+    "id": 88,
+    "slug": "merge-sorted-array",
+    "solution": "0088-merge-sorted-array/solution.py",
+    "submission": "https://leetcode.com/problems/merge-sorted-array/submissions/2038463669",
+    "submitted_at_display": "Jun 19, 2026 14:59"
+  },
+  {
+    "id": 92,
+    "slug": "reverse-linked-list-ii",
+    "solution": "0092-reverse-linked-list-ii/solution.py",
+    "submission": "https://leetcode.com/problems/reverse-linked-list-ii/submissions/2144254139",
+    "submitted_at_display": "Sep 17, 2026 10:38"
+  },
+  {
+    "id": 94,
+    "slug": "binary-tree-inorder-traversal",
+    "solution": "0094-binary-tree-inorder-traversal/solution.py",
+    "submission": "https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/2188534296",
+    "submitted_at_display": "Nov 03, 2026 18:18"
+  },
+  {
+    "id": 97,
+    "slug": "interleaving-string",
+    "solution": "0097-interleaving-string/solution.py",
+    "submission": "https://leetcode.com/problems/interleaving-string/submissions/2134054841",
+    "submitted_at_display": "Sep 07, 2026 22:28"
+  },
+  {
+    "id": 98,
+    "slug": "validate-binary-search-tree",
+    "solution": "0098-validate-binary-search-tree/solution.py",
+    "submission": "https://leetcode.com/problems/validate-binary-search-tree/submissions/2096798489",
+    "submitted_at_display": "Aug 06, 2026 21:27"
+  },
+  {
+    "id": 100,
+    "slug": "same-tree",
+    "solution": "0100-same-tree/solution.py",
+    "submission": "https://leetcode.com/problems/same-tree/submissions/2040757015",
+    "submitted_at_display": "Jun 21, 2026 15:15"
+  },
+  {
+    "id": 101,
+    "slug": "symmetric-tree",
+    "solution": "0101-symmetric-tree/solution.py",
+    "submission": "https://leetcode.com/problems/symmetric-tree/submissions/2108644691",
+    "submitted_at_display": "Aug 16, 2026 13:40"
+  },
+  {
+    "id": 102,
+    "slug": "binary-tree-level-order-traversal",
+    "solution": "0102-binary-tree-level-order-traversal/solution.py",
+    "submission": "https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2112241905",
+    "submitted_at_display": "Aug 19, 2026 12:13"
+  },
+  {
+    "id": 103,
+    "slug": "binary-tree-zigzag-level-order-traversal",
+    "solution": "0103-binary-tree-zigzag-level-order-traversal/solution.py",
+    "submission": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2107327334",
+    "submitted_at_display": "Aug 15, 2026 13:46"
+  },
+  {
+    "id": 104,
+    "slug": "maximum-depth-of-binary-tree",
+    "solution": "0104-maximum-depth-of-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2146819549",
+    "submitted_at_display": "Sep 19, 2026 23:16"
+  },
+  {
+    "id": 105,
+    "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "solution": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.py",
+    "submission": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/2092188274",
+    "submitted_at_display": "Aug 03, 2026 13:13"
+  },
+  {
+    "id": 106,
+    "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "solution": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.py",
+    "submission": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/2106587262",
+    "submitted_at_display": "Aug 14, 2026 19:36"
+  },
+  {
+    "id": 108,
+    "slug": "convert-sorted-array-to-binary-search-tree",
+    "solution": "0108-convert-sorted-array-to-binary-search-tree/solution.py",
+    "submission": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/submissions/2041038640",
+    "submitted_at_display": "Jun 21, 2026 20:46"
+  },
+  {
+    "id": 110,
+    "slug": "balanced-binary-tree",
+    "solution": "0110-balanced-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/balanced-binary-tree/submissions/2189286645",
+    "submitted_at_display": "Nov 04, 2026 17:50"
+  },
+  {
+    "id": 111,
+    "slug": "minimum-depth-of-binary-tree",
+    "solution": "0111-minimum-depth-of-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/2131883779",
+    "submitted_at_display": "Sep 05, 2026 22:49"
+  },
+  {
+    "id": 112,
+    "slug": "path-sum",
+    "solution": "0112-path-sum/solution.py",
+    "submission": "https://leetcode.com/problems/path-sum/submissions/2078649387",
+    "submitted_at_display": "Jul 23, 2026 23:29"
+  },
+  {
+    "id": 113,
+    "slug": "path-sum-ii",
+    "solution": "0113-path-sum-ii/solution.py",
+    "submission": "https://leetcode.com/problems/path-sum-ii/submissions/2131898232",
+    "submitted_at_display": "Sep 05, 2026 23:04"
+  },
+  {
+    "id": 114,
+    "slug": "flatten-binary-tree-to-linked-list",
+    "solution": "0114-flatten-binary-tree-to-linked-list/solution.py",
+    "submission": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/2106730379",
+    "submitted_at_display": "Aug 14, 2026 22:10"
+  },
+  {
+    "id": 115,
+    "slug": "distinct-subsequences",
+    "solution": "0115-distinct-subsequences/solution.py",
+    "submission": "https://leetcode.com/problems/distinct-subsequences/submissions/2133058822",
+    "submitted_at_display": "Sep 06, 2026 23:32"
+  },
+  {
+    "id": 117,
+    "slug": "populating-next-right-pointers-in-each-node-ii",
+    "solution": "0117-populating-next-right-pointers-in-each-node-ii/solution.py",
+    "submission": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/2106662650",
+    "submitted_at_display": "Aug 14, 2026 21:00"
+  },
+  {
+    "id": 120,
+    "slug": "triangle",
+    "solution": "0120-triangle/solution.py",
+    "submission": "https://leetcode.com/problems/triangle/submissions/2041265207",
+    "submitted_at_display": "Jun 22, 2026 00:41"
+  },
+  {
+    "id": 121,
+    "slug": "best-time-to-buy-and-sell-stock",
+    "solution": "0121-best-time-to-buy-and-sell-stock/solution.py",
+    "submission": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2172121890",
+    "submitted_at_display": "Oct 14, 2026 19:43"
+  },
+  {
+    "id": 122,
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "solution": "0122-best-time-to-buy-and-sell-stock-ii/solution.py",
+    "submission": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/2119410130",
+    "submitted_at_display": "Aug 25, 2026 15:31"
+  },
+  {
+    "id": 123,
+    "slug": "best-time-to-buy-and-sell-stock-iii",
+    "solution": "0123-best-time-to-buy-and-sell-stock-iii/solution.py",
+    "submission": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/submissions/2135181466",
+    "submitted_at_display": "Sep 08, 2026 21:01"
+  },
+  {
+    "id": 124,
+    "slug": "binary-tree-maximum-path-sum",
+    "solution": "0124-binary-tree-maximum-path-sum/solution.py",
+    "submission": "https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/2133458440",
+    "submitted_at_display": "Sep 07, 2026 11:28"
+  },
+  {
+    "id": 125,
+    "slug": "valid-palindrome",
+    "solution": "0125-valid-palindrome/solution.py",
+    "submission": "https://leetcode.com/problems/valid-palindrome/submissions/2039836617",
+    "submitted_at_display": "Jun 20, 2026 21:15"
+  },
+  {
+    "id": 127,
+    "slug": "word-ladder",
+    "solution": "0127-word-ladder/solution.py",
+    "submission": "https://leetcode.com/problems/word-ladder/submissions/2141027337",
+    "submitted_at_display": "Sep 14, 2026 04:29"
+  },
+  {
+    "id": 128,
+    "slug": "longest-consecutive-sequence",
+    "solution": "0128-longest-consecutive-sequence/solution.py",
+    "submission": "https://leetcode.com/problems/longest-consecutive-sequence/submissions/2186110680",
+    "submitted_at_display": "Oct 31, 2026 17:22"
+  },
+  {
+    "id": 129,
+    "slug": "sum-root-to-leaf-numbers",
+    "solution": "0129-sum-root-to-leaf-numbers/solution.py",
+    "submission": "https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2093949310",
+    "submitted_at_display": "Aug 04, 2026 19:17"
+  },
+  {
+    "id": 130,
+    "slug": "surrounded-regions",
+    "solution": "0130-surrounded-regions/solution.py",
+    "submission": "https://leetcode.com/problems/surrounded-regions/submissions/2144778104",
+    "submitted_at_display": "Sep 17, 2026 21:01"
+  },
+  {
+    "id": 133,
+    "slug": "clone-graph",
+    "solution": "0133-clone-graph/solution.py",
+    "submission": "https://leetcode.com/problems/clone-graph/submissions/2091221658",
+    "submitted_at_display": "Aug 02, 2026 17:31"
+  },
+  {
+    "id": 134,
+    "slug": "gas-station",
+    "solution": "0134-gas-station/solution.py",
+    "submission": "https://leetcode.com/problems/gas-station/submissions/2068728821",
+    "submitted_at_display": "Jul 15, 2026 21:38"
+  },
+  {
+    "id": 135,
+    "slug": "candy",
+    "solution": "0135-candy/solution.py",
+    "submission": "https://leetcode.com/problems/candy/submissions/2068799509",
+    "submitted_at_display": "Jul 15, 2026 22:40"
+  },
+  {
+    "id": 136,
+    "slug": "single-number",
+    "solution": "0136-single-number/solution.py",
+    "submission": "https://leetcode.com/problems/single-number/submissions/2120970177",
+    "submitted_at_display": "Aug 26, 2026 22:37"
+  },
+  {
+    "id": 137,
+    "slug": "single-number-ii",
+    "solution": "0137-single-number-ii/solution.py",
+    "submission": "https://leetcode.com/problems/single-number-ii/submissions/2121007081",
+    "submitted_at_display": "Aug 26, 2026 23:11"
+  },
+  {
+    "id": 138,
+    "slug": "copy-list-with-random-pointer",
+    "solution": "0138-copy-list-with-random-pointer/solution.py",
+    "submission": "https://leetcode.com/problems/copy-list-with-random-pointer/submissions/2144236092",
+    "submitted_at_display": "Sep 17, 2026 10:07"
+  },
+  {
+    "id": 139,
+    "slug": "word-break",
+    "solution": "0139-word-break/solution.py",
+    "submission": "https://leetcode.com/problems/word-break/submissions/2110989253",
+    "submitted_at_display": "Aug 18, 2026 13:01"
+  },
+  {
+    "id": 141,
+    "slug": "linked-list-cycle",
+    "solution": "0141-linked-list-cycle/solution.py",
+    "submission": "https://leetcode.com/problems/linked-list-cycle/submissions/2144232477",
+    "submitted_at_display": "Sep 17, 2026 10:00"
+  },
+  {
+    "id": 142,
+    "slug": "linked-list-cycle-ii",
+    "solution": "0142-linked-list-cycle-ii/solution.py",
+    "submission": "https://leetcode.com/problems/linked-list-cycle-ii/submissions/2189328636",
+    "submitted_at_display": "Nov 04, 2026 19:14"
+  },
+  {
+    "id": 143,
+    "slug": "reorder-list",
+    "solution": "0143-reorder-list/solution.py",
+    "submission": "https://leetcode.com/problems/reorder-list/submissions/2152666946",
+    "submitted_at_display": "Sep 25, 2026 12:47"
+  },
+  {
+    "id": 144,
+    "slug": "binary-tree-preorder-traversal",
+    "solution": "0144-binary-tree-preorder-traversal/solution.py",
+    "submission": "https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/2131901239",
+    "submitted_at_display": "Sep 05, 2026 23:07"
+  },
+  {
+    "id": 146,
+    "slug": "lru-cache",
+    "solution": "0146-lru-cache/solution.py",
+    "submission": "https://leetcode.com/problems/lru-cache/submissions/2144375412",
+    "submitted_at_display": "Sep 17, 2026 12:55"
+  },
+  {
+    "id": 148,
+    "slug": "sort-list",
+    "solution": "0148-sort-list/solution.py",
+    "submission": "https://leetcode.com/problems/sort-list/submissions/2041118403",
+    "submitted_at_display": "Jun 21, 2026 22:12"
+  },
+  {
+    "id": 149,
+    "slug": "max-points-on-a-line",
+    "solution": "0149-max-points-on-a-line/solution.py",
+    "submission": "https://leetcode.com/problems/max-points-on-a-line/submissions/2112692851",
+    "submitted_at_display": "Aug 19, 2026 19:53"
+  },
+  {
+    "id": 150,
+    "slug": "evaluate-reverse-polish-notation",
+    "solution": "0150-evaluate-reverse-polish-notation/solution.py",
+    "submission": "https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/2077241369",
+    "submitted_at_display": "Jul 22, 2026 21:41"
+  },
+  {
+    "id": 151,
+    "slug": "reverse-words-in-a-string",
+    "solution": "0151-reverse-words-in-a-string/solution.py",
+    "submission": "https://leetcode.com/problems/reverse-words-in-a-string/submissions/2043073325",
+    "submitted_at_display": "Jun 23, 2026 14:34"
+  },
+  {
+    "id": 152,
+    "slug": "maximum-product-subarray",
+    "solution": "0152-maximum-product-subarray/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-product-subarray/submissions/2189992058",
+    "submitted_at_display": "Nov 05, 2026 17:27"
+  },
+  {
+    "id": 153,
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "solution": "0153-find-minimum-in-rotated-sorted-array/solution.py",
+    "submission": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2141163351",
+    "submitted_at_display": "Sep 14, 2026 11:09"
+  },
+  {
+    "id": 155,
+    "slug": "min-stack",
+    "solution": "0155-min-stack/solution.py",
+    "submission": "https://leetcode.com/problems/min-stack/submissions/2144231254",
+    "submitted_at_display": "Sep 17, 2026 09:58"
+  },
+  {
+    "id": 162,
+    "slug": "find-peak-element",
+    "solution": "0162-find-peak-element/solution.py",
+    "submission": "https://leetcode.com/problems/find-peak-element/submissions/2043707983",
+    "submitted_at_display": "Jun 24, 2026 00:33"
+  },
+  {
+    "id": 164,
+    "slug": "maximum-gap",
+    "solution": "0164-maximum-gap/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-gap/submissions/2126265800",
+    "submitted_at_display": "Aug 31, 2026 22:32"
+  },
+  {
+    "id": 165,
+    "slug": "compare-version-numbers",
+    "solution": "0165-compare-version-numbers/solution.py",
+    "submission": "https://leetcode.com/problems/compare-version-numbers/submissions/2184772917",
+    "submitted_at_display": "Oct 29, 2026 21:16"
+  },
+  {
+    "id": 167,
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "solution": "0167-two-sum-ii-input-array-is-sorted/solution.py",
+    "submission": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2068911311",
+    "submitted_at_display": "Jul 16, 2026 00:04"
+  },
+  {
+    "id": 169,
+    "slug": "majority-element",
+    "solution": "0169-majority-element/solution.py",
+    "submission": "https://leetcode.com/problems/majority-element/submissions/2038526089",
+    "submitted_at_display": "Jun 19, 2026 16:02"
+  },
+  {
+    "id": 172,
+    "slug": "factorial-trailing-zeroes",
+    "solution": "0172-factorial-trailing-zeroes/solution.py",
+    "submission": "https://leetcode.com/problems/factorial-trailing-zeroes/submissions/2041242477",
+    "submitted_at_display": "Jun 22, 2026 00:19"
+  },
+  {
+    "id": 173,
+    "slug": "binary-search-tree-iterator",
+    "solution": "0173-binary-search-tree-iterator/solution.py",
+    "submission": "https://leetcode.com/problems/binary-search-tree-iterator/submissions/2133467752",
+    "submitted_at_display": "Sep 07, 2026 11:40"
+  },
+  {
+    "id": 188,
+    "slug": "best-time-to-buy-and-sell-stock-iv",
+    "solution": "0188-best-time-to-buy-and-sell-stock-iv/solution.py",
+    "submission": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/submissions/2135187202",
+    "submitted_at_display": "Sep 08, 2026 21:06"
+  },
+  {
+    "id": 189,
+    "slug": "rotate-array",
+    "solution": "0189-rotate-array/solution.py",
+    "submission": "https://leetcode.com/problems/rotate-array/submissions/2038538795",
+    "submitted_at_display": "Jun 19, 2026 16:13"
+  },
+  {
+    "id": 190,
+    "slug": "reverse-bits",
+    "solution": "0190-reverse-bits/solution.py",
+    "submission": "https://leetcode.com/problems/reverse-bits/submissions/2120957740",
+    "submitted_at_display": "Aug 26, 2026 22:25"
+  },
+  {
+    "id": 191,
+    "slug": "number-of-1-bits",
+    "solution": "0191-number-of-1-bits/solution.py",
+    "submission": "https://leetcode.com/problems/number-of-1-bits/submissions/2120960606",
+    "submitted_at_display": "Aug 26, 2026 22:28"
+  },
+  {
+    "id": 198,
+    "slug": "house-robber",
+    "solution": "0198-house-robber/solution.py",
+    "submission": "https://leetcode.com/problems/house-robber/submissions/2111103727",
+    "submitted_at_display": "Aug 18, 2026 14:39"
+  },
+  {
+    "id": 199,
+    "slug": "binary-tree-right-side-view",
+    "solution": "0199-binary-tree-right-side-view/solution.py",
+    "submission": "https://leetcode.com/problems/binary-tree-right-side-view/submissions/2040831280",
+    "submitted_at_display": "Jun 21, 2026 16:44"
+  },
+  {
+    "id": 200,
+    "slug": "number-of-islands",
+    "solution": "0200-number-of-islands/solution.py",
+    "submission": "https://leetcode.com/problems/number-of-islands/submissions/2144759058",
+    "submitted_at_display": "Sep 17, 2026 20:42"
+  },
+  {
+    "id": 201,
+    "slug": "bitwise-and-of-numbers-range",
+    "solution": "0201-bitwise-and-of-numbers-range/solution.py",
+    "submission": "https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/2125204318",
+    "submitted_at_display": "Aug 30, 2026 22:48"
+  },
+  {
+    "id": 202,
+    "slug": "happy-number",
+    "solution": "0202-happy-number/solution.py",
+    "submission": "https://leetcode.com/problems/happy-number/submissions/2138608546",
+    "submitted_at_display": "Sep 11, 2026 21:01"
+  },
+  {
+    "id": 203,
+    "slug": "remove-linked-list-elements",
+    "solution": "0203-remove-linked-list-elements/solution.py",
+    "submission": "https://leetcode.com/problems/remove-linked-list-elements/submissions/2126878250",
+    "submitted_at_display": "Sep 01, 2026 13:11"
+  },
+  {
+    "id": 204,
+    "slug": "count-primes",
+    "solution": "0204-count-primes/solution.py",
+    "submission": "https://leetcode.com/problems/count-primes/submissions/2131920547",
+    "submitted_at_display": "Sep 05, 2026 23:26"
+  },
+  {
+    "id": 205,
+    "slug": "isomorphic-strings",
+    "solution": "0205-isomorphic-strings/solution.py",
+    "submission": "https://leetcode.com/problems/isomorphic-strings/submissions/2172123207",
+    "submitted_at_display": "Oct 14, 2026 19:45"
+  },
+  {
+    "id": 206,
+    "slug": "reverse-linked-list",
+    "solution": "0206-reverse-linked-list/solution.py",
+    "submission": "https://leetcode.com/problems/reverse-linked-list/submissions/2139224079",
+    "submitted_at_display": "Sep 12, 2026 13:49"
+  },
+  {
+    "id": 207,
+    "slug": "course-schedule",
+    "solution": "0207-course-schedule/solution.py",
+    "submission": "https://leetcode.com/problems/course-schedule/submissions/2141039440",
+    "submitted_at_display": "Sep 14, 2026 05:02"
+  },
+  {
+    "id": 208,
+    "slug": "implement-trie-prefix-tree",
+    "solution": "0208-implement-trie-prefix-tree/solution.py",
+    "submission": "https://leetcode.com/problems/implement-trie-prefix-tree/submissions/2135827171",
+    "submitted_at_display": "Sep 09, 2026 11:14"
+  },
+  {
+    "id": 209,
+    "slug": "minimum-size-subarray-sum",
+    "solution": "0209-minimum-size-subarray-sum/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2143458943",
+    "submitted_at_display": "Sep 16, 2026 15:34"
+  },
+  {
+    "id": 210,
+    "slug": "course-schedule-ii",
+    "solution": "0210-course-schedule-ii/solution.py",
+    "submission": "https://leetcode.com/problems/course-schedule-ii/submissions/2145450220",
+    "submitted_at_display": "Sep 18, 2026 13:25"
+  },
+  {
+    "id": 211,
+    "slug": "design-add-and-search-words-data-structure",
+    "solution": "0211-design-add-and-search-words-data-structure/solution.py",
+    "submission": "https://leetcode.com/problems/design-add-and-search-words-data-structure/submissions/2135894035",
+    "submitted_at_display": "Sep 09, 2026 12:15"
+  },
+  {
+    "id": 212,
+    "slug": "word-search-ii",
+    "solution": "0212-word-search-ii/solution.py",
+    "submission": "https://leetcode.com/problems/word-search-ii/submissions/2135940329",
+    "submitted_at_display": "Sep 09, 2026 12:56"
+  },
+  {
+    "id": 213,
+    "slug": "house-robber-ii",
+    "solution": "0213-house-robber-ii/solution.py",
+    "submission": "https://leetcode.com/problems/house-robber-ii/submissions/2188530572",
+    "submitted_at_display": "Nov 03, 2026 18:12"
+  },
+  {
+    "id": 215,
+    "slug": "kth-largest-element-in-an-array",
+    "solution": "0215-kth-largest-element-in-an-array/solution.py",
+    "submission": "https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2128496140",
+    "submitted_at_display": "Sep 02, 2026 20:50"
+  },
+  {
+    "id": 217,
+    "slug": "contains-duplicate",
+    "solution": "0217-contains-duplicate/solution.py",
+    "submission": "https://leetcode.com/problems/contains-duplicate/submissions/2188490759",
+    "submitted_at_display": "Nov 03, 2026 17:10"
+  }
+]
