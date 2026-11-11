@@ -1097,5 +1097,1181 @@
     "solution": "0217-contains-duplicate/solution.py",
     "submission": "https://leetcode.com/problems/contains-duplicate/submissions/2188490759",
     "submitted_at_display": "Nov 03, 2026 17:10"
+  },
+  {
+    "id": 219,
+    "slug": "contains-duplicate-ii",
+    "solution": "0219-contains-duplicate-ii/solution.py",
+    "submission": "https://leetcode.com/problems/contains-duplicate-ii/submissions/2143560116",
+    "submitted_at_display": "Sep 16, 2026 17:42"
+  },
+  {
+    "id": 221,
+    "slug": "maximal-square",
+    "solution": "0221-maximal-square/solution.py",
+    "submission": "https://leetcode.com/problems/maximal-square/submissions/2124103698",
+    "submitted_at_display": "Aug 29, 2026 23:17"
+  },
+  {
+    "id": 222,
+    "slug": "count-complete-tree-nodes",
+    "solution": "0222-count-complete-tree-nodes/solution.py",
+    "submission": "https://leetcode.com/problems/count-complete-tree-nodes/submissions/2107184845",
+    "submitted_at_display": "Aug 15, 2026 10:57"
+  },
+  {
+    "id": 224,
+    "slug": "basic-calculator",
+    "solution": "0224-basic-calculator/solution.py",
+    "submission": "https://leetcode.com/problems/basic-calculator/submissions/2119302714",
+    "submitted_at_display": "Aug 25, 2026 13:34"
+  },
+  {
+    "id": 225,
+    "slug": "implement-stack-using-queues",
+    "solution": "0225-implement-stack-using-queues/solution.py",
+    "submission": "https://leetcode.com/problems/implement-stack-using-queues/submissions/2189302506",
+    "submitted_at_display": "Nov 04, 2026 18:20"
+  },
+  {
+    "id": 226,
+    "slug": "invert-binary-tree",
+    "solution": "0226-invert-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/invert-binary-tree/submissions/2108638895",
+    "submitted_at_display": "Aug 16, 2026 13:34"
+  },
+  {
+    "id": 228,
+    "slug": "summary-ranges",
+    "solution": "0228-summary-ranges/solution.py",
+    "submission": "https://leetcode.com/problems/summary-ranges/submissions/2181337070",
+    "submitted_at_display": "Oct 25, 2026 18:31"
+  },
+  {
+    "id": 230,
+    "slug": "kth-smallest-element-in-a-bst",
+    "solution": "0230-kth-smallest-element-in-a-bst/solution.py",
+    "submission": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2145455885",
+    "submitted_at_display": "Sep 18, 2026 13:31"
+  },
+  {
+    "id": 232,
+    "slug": "implement-queue-using-stacks",
+    "solution": "0232-implement-queue-using-stacks/solution.py",
+    "submission": "https://leetcode.com/problems/implement-queue-using-stacks/submissions/2159838978",
+    "submitted_at_display": "Oct 02, 2026 13:04"
+  },
+  {
+    "id": 235,
+    "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "solution": "0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py",
+    "submission": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2187480552",
+    "submitted_at_display": "Nov 02, 2026 12:20"
+  },
+  {
+    "id": 236,
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "solution": "0236-lowest-common-ancestor-of-a-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/2187473093",
+    "submitted_at_display": "Nov 02, 2026 12:09"
+  },
+  {
+    "id": 238,
+    "slug": "product-of-array-except-self",
+    "solution": "0238-product-of-array-except-self/solution.py",
+    "submission": "https://leetcode.com/problems/product-of-array-except-self/submissions/2039798998",
+    "submitted_at_display": "Jun 20, 2026 20:29"
+  },
+  {
+    "id": 239,
+    "slug": "sliding-window-maximum",
+    "solution": "0239-sliding-window-maximum/solution.py",
+    "submission": "https://leetcode.com/problems/sliding-window-maximum/submissions/2151548549",
+    "submitted_at_display": "Sep 24, 2026 11:20"
+  },
+  {
+    "id": 240,
+    "slug": "search-a-2d-matrix-ii",
+    "solution": "0240-search-a-2d-matrix-ii/solution.py",
+    "submission": "https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/2189827900",
+    "submitted_at_display": "Nov 05, 2026 12:30"
+  },
+  {
+    "id": 242,
+    "slug": "valid-anagram",
+    "solution": "0242-valid-anagram/solution.py",
+    "submission": "https://leetcode.com/problems/valid-anagram/submissions/2143554657",
+    "submitted_at_display": "Sep 16, 2026 17:35"
+  },
+  {
+    "id": 257,
+    "slug": "binary-tree-paths",
+    "solution": "0257-binary-tree-paths/solution.py",
+    "submission": "https://leetcode.com/problems/binary-tree-paths/submissions/2163830309",
+    "submitted_at_display": "Oct 06, 2026 12:06"
+  },
+  {
+    "id": 258,
+    "slug": "add-digits",
+    "solution": "0258-add-digits/solution.py",
+    "submission": "https://leetcode.com/problems/add-digits/submissions/2154064287",
+    "submitted_at_display": "Sep 26, 2026 22:23"
+  },
+  {
+    "id": 268,
+    "slug": "missing-number",
+    "solution": "0268-missing-number/solution.py",
+    "submission": "https://leetcode.com/problems/missing-number/submissions/2154061559",
+    "submitted_at_display": "Sep 26, 2026 22:22"
+  },
+  {
+    "id": 274,
+    "slug": "h-index",
+    "solution": "0274-h-index/solution.py",
+    "submission": "https://leetcode.com/problems/h-index/submissions/2039731691",
+    "submitted_at_display": "Jun 20, 2026 19:04"
+  },
+  {
+    "id": 283,
+    "slug": "move-zeroes",
+    "solution": "0283-move-zeroes/solution.py",
+    "submission": "https://leetcode.com/problems/move-zeroes/submissions/2119851767",
+    "submitted_at_display": "Aug 25, 2026 22:58"
+  },
+  {
+    "id": 287,
+    "slug": "find-the-duplicate-number",
+    "solution": "0287-find-the-duplicate-number/solution.py",
+    "submission": "https://leetcode.com/problems/find-the-duplicate-number/submissions/2190004323",
+    "submitted_at_display": "Nov 05, 2026 17:51"
+  },
+  {
+    "id": 289,
+    "slug": "game-of-life",
+    "solution": "0289-game-of-life/solution.py",
+    "submission": "https://leetcode.com/problems/game-of-life/submissions/2143549573",
+    "submitted_at_display": "Sep 16, 2026 17:28"
+  },
+  {
+    "id": 290,
+    "slug": "word-pattern",
+    "solution": "0290-word-pattern/solution.py",
+    "submission": "https://leetcode.com/problems/word-pattern/submissions/2138597344",
+    "submitted_at_display": "Sep 11, 2026 20:48"
+  },
+  {
+    "id": 295,
+    "slug": "find-median-from-data-stream",
+    "solution": "0295-find-median-from-data-stream/solution.py",
+    "submission": "https://leetcode.com/problems/find-median-from-data-stream/submissions/2141183755",
+    "submitted_at_display": "Sep 14, 2026 11:40"
+  },
+  {
+    "id": 300,
+    "slug": "longest-increasing-subsequence",
+    "solution": "0300-longest-increasing-subsequence/solution.py",
+    "submission": "https://leetcode.com/problems/longest-increasing-subsequence/submissions/2111243411",
+    "submitted_at_display": "Aug 18, 2026 16:55"
+  },
+  {
+    "id": 322,
+    "slug": "coin-change",
+    "solution": "0322-coin-change/solution.py",
+    "submission": "https://leetcode.com/problems/coin-change/submissions/2111024573",
+    "submitted_at_display": "Aug 18, 2026 13:28"
+  },
+  {
+    "id": 337,
+    "slug": "house-robber-iii",
+    "solution": "0337-house-robber-iii/solution.py",
+    "submission": "https://leetcode.com/problems/house-robber-iii/submissions/2191266602",
+    "submitted_at_display": "Nov 07, 2026 19:47"
+  },
+  {
+    "id": 344,
+    "slug": "reverse-string",
+    "solution": "0344-reverse-string/solution.py",
+    "submission": "https://leetcode.com/problems/reverse-string/submissions/2189287850",
+    "submitted_at_display": "Nov 04, 2026 17:52"
+  },
+  {
+    "id": 347,
+    "slug": "top-k-frequent-elements",
+    "solution": "0347-top-k-frequent-elements/solution.py",
+    "submission": "https://leetcode.com/problems/top-k-frequent-elements/submissions/2188498572",
+    "submitted_at_display": "Nov 03, 2026 17:22"
+  },
+  {
+    "id": 373,
+    "slug": "find-k-pairs-with-smallest-sums",
+    "solution": "0373-find-k-pairs-with-smallest-sums/solution.py",
+    "submission": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/submissions/2141173843",
+    "submitted_at_display": "Sep 14, 2026 11:26"
+  },
+  {
+    "id": 380,
+    "slug": "insert-delete-getrandom-o1",
+    "solution": "0380-insert-delete-getrandom-o1/solution.py",
+    "submission": "https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/2039760729",
+    "submitted_at_display": "Jun 20, 2026 19:41"
+  },
+  {
+    "id": 383,
+    "slug": "ransom-note",
+    "solution": "0383-ransom-note/solution.py",
+    "submission": "https://leetcode.com/problems/ransom-note/submissions/2143551854",
+    "submitted_at_display": "Sep 16, 2026 17:31"
+  },
+  {
+    "id": 389,
+    "slug": "find-the-difference",
+    "solution": "0389-find-the-difference/solution.py",
+    "submission": "https://leetcode.com/problems/find-the-difference/submissions/2187393969",
+    "submitted_at_display": "Nov 02, 2026 09:27"
+  },
+  {
+    "id": 392,
+    "slug": "is-subsequence",
+    "solution": "0392-is-subsequence/solution.py",
+    "submission": "https://leetcode.com/problems/is-subsequence/submissions/2040043161",
+    "submitted_at_display": "Jun 20, 2026 23:09"
+  },
+  {
+    "id": 394,
+    "slug": "decode-string",
+    "solution": "0394-decode-string/solution.py",
+    "submission": "https://leetcode.com/problems/decode-string/submissions/2151635312",
+    "submitted_at_display": "Sep 24, 2026 12:48"
+  },
+  {
+    "id": 399,
+    "slug": "evaluate-division",
+    "solution": "0399-evaluate-division/solution.py",
+    "submission": "https://leetcode.com/problems/evaluate-division/submissions/2145260713",
+    "submitted_at_display": "Sep 18, 2026 09:11"
+  },
+  {
+    "id": 410,
+    "slug": "split-array-largest-sum",
+    "solution": "0410-split-array-largest-sum/solution.py",
+    "submission": "https://leetcode.com/problems/split-array-largest-sum/submissions/2153499277",
+    "submitted_at_display": "Sep 26, 2026 11:20"
+  },
+  {
+    "id": 414,
+    "slug": "third-maximum-number",
+    "solution": "0414-third-maximum-number/solution.py",
+    "submission": "https://leetcode.com/problems/third-maximum-number/submissions/2181336690",
+    "submitted_at_display": "Oct 25, 2026 18:31"
+  },
+  {
+    "id": 416,
+    "slug": "partition-equal-subset-sum",
+    "solution": "0416-partition-equal-subset-sum/solution.py",
+    "submission": "https://leetcode.com/problems/partition-equal-subset-sum/submissions/2189806758",
+    "submitted_at_display": "Nov 05, 2026 11:53"
+  },
+  {
+    "id": 417,
+    "slug": "pacific-atlantic-water-flow",
+    "solution": "0417-pacific-atlantic-water-flow/solution.py",
+    "submission": "https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/2157006506",
+    "submitted_at_display": "Sep 29, 2026 18:11"
+  },
+  {
+    "id": 424,
+    "slug": "longest-repeating-character-replacement",
+    "solution": "0424-longest-repeating-character-replacement/solution.py",
+    "submission": "https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2151546301",
+    "submitted_at_display": "Sep 24, 2026 11:18"
+  },
+  {
+    "id": 427,
+    "slug": "construct-quad-tree",
+    "solution": "0427-construct-quad-tree/solution.py",
+    "submission": "https://leetcode.com/problems/construct-quad-tree/submissions/2135102159",
+    "submitted_at_display": "Sep 08, 2026 19:47"
+  },
+  {
+    "id": 433,
+    "slug": "minimum-genetic-mutation",
+    "solution": "0433-minimum-genetic-mutation/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-genetic-mutation/submissions/2148121662",
+    "submitted_at_display": "Sep 21, 2026 05:41"
+  },
+  {
+    "id": 435,
+    "slug": "non-overlapping-intervals",
+    "solution": "0435-non-overlapping-intervals/solution.py",
+    "submission": "https://leetcode.com/problems/non-overlapping-intervals/submissions/2152789309",
+    "submitted_at_display": "Sep 25, 2026 15:25"
+  },
+  {
+    "id": 438,
+    "slug": "find-all-anagrams-in-a-string",
+    "solution": "0438-find-all-anagrams-in-a-string/solution.py",
+    "submission": "https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/2155528746",
+    "submitted_at_display": "Sep 28, 2026 11:08"
+  },
+  {
+    "id": 443,
+    "slug": "string-compression",
+    "solution": "0443-string-compression/solution.py",
+    "submission": "https://leetcode.com/problems/string-compression/submissions/2192264858",
+    "submitted_at_display": "Nov 09, 2026 12:21"
+  },
+  {
+    "id": 452,
+    "slug": "minimum-number-of-arrows-to-burst-balloons",
+    "solution": "0452-minimum-number-of-arrows-to-burst-balloons/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/2152793418",
+    "submitted_at_display": "Sep 25, 2026 15:31"
+  },
+  {
+    "id": 462,
+    "slug": "minimum-moves-to-equal-array-elements-ii",
+    "solution": "0462-minimum-moves-to-equal-array-elements-ii/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2187585802",
+    "submitted_at_display": "Nov 02, 2026 15:04"
+  },
+  {
+    "id": 496,
+    "slug": "next-greater-element-i",
+    "solution": "0496-next-greater-element-i/solution.py",
+    "submission": "https://leetcode.com/problems/next-greater-element-i/submissions/2181337697",
+    "submitted_at_display": "Oct 25, 2026 18:32"
+  },
+  {
+    "id": 502,
+    "slug": "ipo",
+    "solution": "0502-ipo/solution.py",
+    "submission": "https://leetcode.com/problems/ipo/submissions/2135305668",
+    "submitted_at_display": "Sep 08, 2026 22:46"
+  },
+  {
+    "id": 525,
+    "slug": "contiguous-array",
+    "solution": "0525-contiguous-array/solution.py",
+    "submission": "https://leetcode.com/problems/contiguous-array/submissions/2153082252",
+    "submitted_at_display": "Sep 25, 2026 21:57"
+  },
+  {
+    "id": 530,
+    "slug": "minimum-absolute-difference-in-bst",
+    "solution": "0530-minimum-absolute-difference-in-bst/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/2040856816",
+    "submitted_at_display": "Jun 21, 2026 17:14"
+  },
+  {
+    "id": 542,
+    "slug": "01-matrix",
+    "solution": "0542-01-matrix/solution.py",
+    "submission": "https://leetcode.com/problems/01-matrix/submissions/2155599828",
+    "submitted_at_display": "Sep 28, 2026 12:27"
+  },
+  {
+    "id": 543,
+    "slug": "diameter-of-binary-tree",
+    "solution": "0543-diameter-of-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/diameter-of-binary-tree/submissions/2191931306",
+    "submitted_at_display": "Nov 08, 2026 20:10"
+  },
+  {
+    "id": 547,
+    "slug": "number-of-provinces",
+    "solution": "0547-number-of-provinces/solution.py",
+    "submission": "https://leetcode.com/problems/number-of-provinces/submissions/2189968625",
+    "submitted_at_display": "Nov 05, 2026 16:43"
+  },
+  {
+    "id": 560,
+    "slug": "subarray-sum-equals-k",
+    "solution": "0560-subarray-sum-equals-k/solution.py",
+    "submission": "https://leetcode.com/problems/subarray-sum-equals-k/submissions/2193649367",
+    "submitted_at_display": "Nov 11, 2026 12:59"
+  },
+  {
+    "id": 567,
+    "slug": "permutation-in-string",
+    "solution": "0567-permutation-in-string/solution.py",
+    "submission": "https://leetcode.com/problems/permutation-in-string/submissions/2188516285",
+    "submitted_at_display": "Nov 03, 2026 17:49"
+  },
+  {
+    "id": 605,
+    "slug": "can-place-flowers",
+    "solution": "0605-can-place-flowers/solution.py",
+    "submission": "https://leetcode.com/problems/can-place-flowers/submissions/2167984900",
+    "submitted_at_display": "Oct 10, 2026 15:48"
+  },
+  {
+    "id": 621,
+    "slug": "task-scheduler",
+    "solution": "0621-task-scheduler/solution.py",
+    "submission": "https://leetcode.com/problems/task-scheduler/submissions/2142549338",
+    "submitted_at_display": "Sep 15, 2026 18:54"
+  },
+  {
+    "id": 637,
+    "slug": "average-of-levels-in-binary-tree",
+    "solution": "0637-average-of-levels-in-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/2087149288",
+    "submitted_at_display": "Jul 30, 2026 14:32"
+  },
+  {
+    "id": 646,
+    "slug": "maximum-length-of-pair-chain",
+    "solution": "0646-maximum-length-of-pair-chain/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-length-of-pair-chain/submissions/2164207521",
+    "submitted_at_display": "Oct 06, 2026 19:21"
+  },
+  {
+    "id": 647,
+    "slug": "palindromic-substrings",
+    "solution": "0647-palindromic-substrings/solution.py",
+    "submission": "https://leetcode.com/problems/palindromic-substrings/submissions/2141356536",
+    "submitted_at_display": "Sep 14, 2026 15:23"
+  },
+  {
+    "id": 658,
+    "slug": "find-k-closest-elements",
+    "solution": "0658-find-k-closest-elements/solution.py",
+    "submission": "https://leetcode.com/problems/find-k-closest-elements/submissions/2153494594",
+    "submitted_at_display": "Sep 26, 2026 11:13"
+  },
+  {
+    "id": 662,
+    "slug": "maximum-width-of-binary-tree",
+    "solution": "0662-maximum-width-of-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/2169087604",
+    "submitted_at_display": "Oct 11, 2026 15:40"
+  },
+  {
+    "id": 678,
+    "slug": "valid-parenthesis-string",
+    "solution": "0678-valid-parenthesis-string/solution.py",
+    "submission": "https://leetcode.com/problems/valid-parenthesis-string/submissions/2190164602",
+    "submitted_at_display": "Nov 05, 2026 22:38"
+  },
+  {
+    "id": 692,
+    "slug": "top-k-frequent-words",
+    "solution": "0692-top-k-frequent-words/solution.py",
+    "submission": "https://leetcode.com/problems/top-k-frequent-words/submissions/2178840874",
+    "submitted_at_display": "Oct 22, 2026 20:35"
+  },
+  {
+    "id": 704,
+    "slug": "binary-search",
+    "solution": "0704-binary-search/solution.py",
+    "submission": "https://leetcode.com/problems/binary-search/submissions/2188493922",
+    "submitted_at_display": "Nov 03, 2026 17:15"
+  },
+  {
+    "id": 713,
+    "slug": "subarray-product-less-than-k",
+    "solution": "0713-subarray-product-less-than-k/solution.py",
+    "submission": "https://leetcode.com/problems/subarray-product-less-than-k/submissions/2158723169",
+    "submitted_at_display": "Oct 01, 2026 10:06"
+  },
+  {
+    "id": 724,
+    "slug": "find-pivot-index",
+    "solution": "0724-find-pivot-index/solution.py",
+    "submission": "https://leetcode.com/problems/find-pivot-index/submissions/2181337355",
+    "submitted_at_display": "Oct 25, 2026 18:32"
+  },
+  {
+    "id": 729,
+    "slug": "my-calendar-i",
+    "solution": "0729-my-calendar-i/solution.py",
+    "submission": "https://leetcode.com/problems/my-calendar-i/submissions/2140703686",
+    "submitted_at_display": "Sep 13, 2026 21:42"
+  },
+  {
+    "id": 735,
+    "slug": "asteroid-collision",
+    "solution": "0735-asteroid-collision/solution.py",
+    "submission": "https://leetcode.com/problems/asteroid-collision/submissions/2153471758",
+    "submitted_at_display": "Sep 26, 2026 10:28"
+  },
+  {
+    "id": 739,
+    "slug": "daily-temperatures",
+    "solution": "0739-daily-temperatures/solution.py",
+    "submission": "https://leetcode.com/problems/daily-temperatures/submissions/2193697367",
+    "submitted_at_display": "Nov 11, 2026 14:16"
+  },
+  {
+    "id": 740,
+    "slug": "delete-and-earn",
+    "solution": "0740-delete-and-earn/solution.py",
+    "submission": "https://leetcode.com/problems/delete-and-earn/submissions/2162905494",
+    "submitted_at_display": "Oct 05, 2026 15:18"
+  },
+  {
+    "id": 743,
+    "slug": "network-delay-time",
+    "solution": "0743-network-delay-time/solution.py",
+    "submission": "https://leetcode.com/problems/network-delay-time/submissions/2145614733",
+    "submitted_at_display": "Sep 18, 2026 16:55"
+  },
+  {
+    "id": 763,
+    "slug": "partition-labels",
+    "solution": "0763-partition-labels/solution.py",
+    "submission": "https://leetcode.com/problems/partition-labels/submissions/2043697112",
+    "submitted_at_display": "Jun 24, 2026 00:24"
+  },
+  {
+    "id": 767,
+    "slug": "reorganize-string",
+    "solution": "0767-reorganize-string/solution.py",
+    "submission": "https://leetcode.com/problems/reorganize-string/submissions/2144471459",
+    "submitted_at_display": "Sep 17, 2026 14:39"
+  },
+  {
+    "id": 785,
+    "slug": "is-graph-bipartite",
+    "solution": "0785-is-graph-bipartite/solution.py",
+    "submission": "https://leetcode.com/problems/is-graph-bipartite/submissions/2158746456",
+    "submitted_at_display": "Oct 01, 2026 10:44"
+  },
+  {
+    "id": 787,
+    "slug": "cheapest-flights-within-k-stops",
+    "solution": "0787-cheapest-flights-within-k-stops/solution.py",
+    "submission": "https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/2144837717",
+    "submitted_at_display": "Sep 17, 2026 22:04"
+  },
+  {
+    "id": 807,
+    "slug": "max-increase-to-keep-city-skyline",
+    "solution": "0807-max-increase-to-keep-city-skyline/solution.py",
+    "submission": "https://leetcode.com/problems/max-increase-to-keep-city-skyline/submissions/2190185404",
+    "submitted_at_display": "Nov 05, 2026 23:08"
+  },
+  {
+    "id": 853,
+    "slug": "car-fleet",
+    "solution": "0853-car-fleet/solution.py",
+    "submission": "https://leetcode.com/problems/car-fleet/submissions/2133121695",
+    "submitted_at_display": "Sep 07, 2026 00:27"
+  },
+  {
+    "id": 859,
+    "slug": "buddy-strings",
+    "solution": "0859-buddy-strings/solution.py",
+    "submission": "https://leetcode.com/problems/buddy-strings/submissions/2163804258",
+    "submitted_at_display": "Oct 06, 2026 11:41"
+  },
+  {
+    "id": 860,
+    "slug": "lemonade-change",
+    "solution": "0860-lemonade-change/solution.java",
+    "submission": "https://leetcode.com/problems/lemonade-change/submissions/2178824999",
+    "submitted_at_display": "Oct 22, 2026 20:14"
+  },
+  {
+    "id": 875,
+    "slug": "koko-eating-bananas",
+    "solution": "0875-koko-eating-bananas/solution.py",
+    "submission": "https://leetcode.com/problems/koko-eating-bananas/submissions/2153024417",
+    "submitted_at_display": "Sep 25, 2026 20:47"
+  },
+  {
+    "id": 881,
+    "slug": "boats-to-save-people",
+    "solution": "0881-boats-to-save-people/solution.py",
+    "submission": "https://leetcode.com/problems/boats-to-save-people/submissions/2183871914",
+    "submitted_at_display": "Oct 28, 2026 18:54"
+  },
+  {
+    "id": 901,
+    "slug": "online-stock-span",
+    "solution": "0901-online-stock-span/solution.py",
+    "submission": "https://leetcode.com/problems/online-stock-span/submissions/2154883133",
+    "submitted_at_display": "Sep 27, 2026 18:04"
+  },
+  {
+    "id": 904,
+    "slug": "fruit-into-baskets",
+    "solution": "0904-fruit-into-baskets/solution.py",
+    "submission": "https://leetcode.com/problems/fruit-into-baskets/submissions/2192262603",
+    "submitted_at_display": "Nov 09, 2026 12:16"
+  },
+  {
+    "id": 907,
+    "slug": "sum-of-subarray-minimums",
+    "solution": "0907-sum-of-subarray-minimums/solution.py",
+    "submission": "https://leetcode.com/problems/sum-of-subarray-minimums/submissions/2148300553",
+    "submitted_at_display": "Sep 21, 2026 12:34"
+  },
+  {
+    "id": 909,
+    "slug": "snakes-and-ladders",
+    "solution": "0909-snakes-and-ladders/solution.py",
+    "submission": "https://leetcode.com/problems/snakes-and-ladders/submissions/2070573476",
+    "submitted_at_display": "Jul 17, 2026 11:06"
+  },
+  {
+    "id": 918,
+    "slug": "maximum-sum-circular-subarray",
+    "solution": "0918-maximum-sum-circular-subarray/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-sum-circular-subarray/submissions/2112447608",
+    "submitted_at_display": "Aug 19, 2026 15:38"
+  },
+  {
+    "id": 921,
+    "slug": "minimum-add-to-make-parentheses-valid",
+    "solution": "0921-minimum-add-to-make-parentheses-valid/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/2153738187",
+    "submitted_at_display": "Sep 26, 2026 16:47"
+  },
+  {
+    "id": 931,
+    "slug": "minimum-falling-path-sum",
+    "solution": "0931-minimum-falling-path-sum/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-falling-path-sum/submissions/2165303782",
+    "submitted_at_display": "Oct 07, 2026 20:13"
+  },
+  {
+    "id": 933,
+    "slug": "number-of-recent-calls",
+    "solution": "0933-number-of-recent-calls/solution.py",
+    "submission": "https://leetcode.com/problems/number-of-recent-calls/submissions/2162672893",
+    "submitted_at_display": "Oct 05, 2026 10:49"
+  },
+  {
+    "id": 934,
+    "slug": "shortest-bridge",
+    "solution": "0934-shortest-bridge/solution.py",
+    "submission": "https://leetcode.com/problems/shortest-bridge/submissions/2159876169",
+    "submitted_at_display": "Oct 02, 2026 13:47"
+  },
+  {
+    "id": 946,
+    "slug": "validate-stack-sequences",
+    "solution": "0946-validate-stack-sequences/solution.py",
+    "submission": "https://leetcode.com/problems/validate-stack-sequences/submissions/2159880851",
+    "submitted_at_display": "Oct 02, 2026 13:52"
+  },
+  {
+    "id": 973,
+    "slug": "k-closest-points-to-origin",
+    "solution": "0973-k-closest-points-to-origin/solution.java",
+    "submission": "https://leetcode.com/problems/k-closest-points-to-origin/submissions/2178833315",
+    "submitted_at_display": "Oct 22, 2026 20:25"
+  },
+  {
+    "id": 981,
+    "slug": "time-based-key-value-store",
+    "solution": "0981-time-based-key-value-store/solution.py",
+    "submission": "https://leetcode.com/problems/time-based-key-value-store/submissions/2156795163",
+    "submitted_at_display": "Sep 29, 2026 13:57"
+  },
+  {
+    "id": 986,
+    "slug": "interval-list-intersections",
+    "solution": "0986-interval-list-intersections/solution.py",
+    "submission": "https://leetcode.com/problems/interval-list-intersections/submissions/2162277862",
+    "submitted_at_display": "Oct 04, 2026 23:01"
+  },
+  {
+    "id": 994,
+    "slug": "rotting-oranges",
+    "solution": "0994-rotting-oranges/solution.py",
+    "submission": "https://leetcode.com/problems/rotting-oranges/submissions/2139804294",
+    "submitted_at_display": "Sep 12, 2026 23:52"
+  },
+  {
+    "id": 997,
+    "slug": "find-the-town-judge",
+    "solution": "0997-find-the-town-judge/solution.py",
+    "submission": "https://leetcode.com/problems/find-the-town-judge/submissions/2166880633",
+    "submitted_at_display": "Oct 09, 2026 10:40"
+  },
+  {
+    "id": 1002,
+    "slug": "find-common-characters",
+    "solution": "1002-find-common-characters/solution.py",
+    "submission": "https://leetcode.com/problems/find-common-characters/submissions/2160712068",
+    "submitted_at_display": "Oct 03, 2026 11:49"
+  },
+  {
+    "id": 1011,
+    "slug": "capacity-to-ship-packages-within-d-days",
+    "solution": "1011-capacity-to-ship-packages-within-d-days/solution.py",
+    "submission": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/2153036039",
+    "submitted_at_display": "Sep 25, 2026 21:01"
+  },
+  {
+    "id": 1024,
+    "slug": "video-stitching",
+    "solution": "1024-video-stitching/solution.py",
+    "submission": "https://leetcode.com/problems/video-stitching/submissions/2185338160",
+    "submitted_at_display": "Oct 30, 2026 14:59"
+  },
+  {
+    "id": 1026,
+    "slug": "maximum-difference-between-node-and-ancestor",
+    "solution": "1026-maximum-difference-between-node-and-ancestor/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/submissions/2162832966",
+    "submitted_at_display": "Oct 05, 2026 13:41"
+  },
+  {
+    "id": 1029,
+    "slug": "two-city-scheduling",
+    "solution": "1029-two-city-scheduling/solution.py",
+    "submission": "https://leetcode.com/problems/two-city-scheduling/submissions/2173022371",
+    "submitted_at_display": "Oct 15, 2026 20:03"
+  },
+  {
+    "id": 1046,
+    "slug": "last-stone-weight",
+    "solution": "1046-last-stone-weight/solution.py",
+    "submission": "https://leetcode.com/problems/last-stone-weight/submissions/2155507429",
+    "submitted_at_display": "Sep 28, 2026 10:37"
+  },
+  {
+    "id": 1047,
+    "slug": "remove-all-adjacent-duplicates-in-string",
+    "solution": "1047-remove-all-adjacent-duplicates-in-string/solution.py",
+    "submission": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/2157931562",
+    "submitted_at_display": "Sep 30, 2026 14:44"
+  },
+  {
+    "id": 1091,
+    "slug": "shortest-path-in-binary-matrix",
+    "solution": "1091-shortest-path-in-binary-matrix/solution.py",
+    "submission": "https://leetcode.com/problems/shortest-path-in-binary-matrix/submissions/2154910235",
+    "submitted_at_display": "Sep 27, 2026 18:40"
+  },
+  {
+    "id": 1122,
+    "slug": "relative-sort-array",
+    "solution": "1122-relative-sort-array/solution.py",
+    "submission": "https://leetcode.com/problems/relative-sort-array/submissions/2169968686",
+    "submitted_at_display": "Oct 12, 2026 14:41"
+  },
+  {
+    "id": 1123,
+    "slug": "lowest-common-ancestor-of-deepest-leaves",
+    "solution": "1123-lowest-common-ancestor-of-deepest-leaves/solution.py",
+    "submission": "https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/submissions/2187471907",
+    "submitted_at_display": "Nov 02, 2026 12:07"
+  },
+  {
+    "id": 1143,
+    "slug": "longest-common-subsequence",
+    "solution": "1143-longest-common-subsequence/solution.py",
+    "submission": "https://leetcode.com/problems/longest-common-subsequence/submissions/2147707952",
+    "submitted_at_display": "Sep 20, 2026 20:18"
+  },
+  {
+    "id": 1189,
+    "slug": "maximum-number-of-balloons",
+    "solution": "1189-maximum-number-of-balloons/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-number-of-balloons/submissions/2181349831",
+    "submitted_at_display": "Oct 25, 2026 18:52"
+  },
+  {
+    "id": 1200,
+    "slug": "minimum-absolute-difference",
+    "solution": "1200-minimum-absolute-difference/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-absolute-difference/submissions/2187428321",
+    "submitted_at_display": "Nov 02, 2026 10:54"
+  },
+  {
+    "id": 1207,
+    "slug": "unique-number-of-occurrences",
+    "solution": "1207-unique-number-of-occurrences/solution.py",
+    "submission": "https://leetcode.com/problems/unique-number-of-occurrences/submissions/2153459549",
+    "submitted_at_display": "Sep 26, 2026 09:55"
+  },
+  {
+    "id": 1249,
+    "slug": "minimum-remove-to-make-valid-parentheses",
+    "solution": "1249-minimum-remove-to-make-valid-parentheses/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/2157048539",
+    "submitted_at_display": "Sep 29, 2026 19:09"
+  },
+  {
+    "id": 1295,
+    "slug": "find-numbers-with-even-number-of-digits",
+    "solution": "1295-find-numbers-with-even-number-of-digits/solution.py",
+    "submission": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2187482443",
+    "submitted_at_display": "Nov 02, 2026 12:23"
+  },
+  {
+    "id": 1331,
+    "slug": "rank-transform-of-an-array",
+    "solution": "1331-rank-transform-of-an-array/solution.py",
+    "submission": "https://leetcode.com/problems/rank-transform-of-an-array/submissions/2175324910",
+    "submitted_at_display": "Oct 18, 2026 18:06"
+  },
+  {
+    "id": 1394,
+    "slug": "find-lucky-integer-in-an-array",
+    "solution": "1394-find-lucky-integer-in-an-array/solution.py",
+    "submission": "https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/2182817619",
+    "submitted_at_display": "Oct 27, 2026 12:45"
+  },
+  {
+    "id": 1436,
+    "slug": "destination-city",
+    "solution": "1436-destination-city/solution.py",
+    "submission": "https://leetcode.com/problems/destination-city/submissions/2185268698",
+    "submitted_at_display": "Oct 30, 2026 13:04"
+  },
+  {
+    "id": 1448,
+    "slug": "count-good-nodes-in-binary-tree",
+    "solution": "1448-count-good-nodes-in-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2190190832",
+    "submitted_at_display": "Nov 05, 2026 23:16"
+  },
+  {
+    "id": 1470,
+    "slug": "shuffle-the-array",
+    "solution": "1470-shuffle-the-array/solution.py",
+    "submission": "https://leetcode.com/problems/shuffle-the-array/submissions/2187512205",
+    "submitted_at_display": "Nov 02, 2026 13:06"
+  },
+  {
+    "id": 1482,
+    "slug": "minimum-number-of-days-to-make-m-bouquets",
+    "solution": "1482-minimum-number-of-days-to-make-m-bouquets/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2178995514",
+    "submitted_at_display": "Oct 22, 2026 23:39"
+  },
+  {
+    "id": 1493,
+    "slug": "longest-subarray-of-1s-after-deleting-one-element",
+    "solution": "1493-longest-subarray-of-1s-after-deleting-one-element/solution.py",
+    "submission": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/submissions/2186920465",
+    "submitted_at_display": "Nov 01, 2026 18:06"
+  },
+  {
+    "id": 1512,
+    "slug": "number-of-good-pairs",
+    "solution": "1512-number-of-good-pairs/solution.py",
+    "submission": "https://leetcode.com/problems/number-of-good-pairs/submissions/2179406389",
+    "submitted_at_display": "Oct 23, 2026 13:12"
+  },
+  {
+    "id": 1544,
+    "slug": "make-the-string-great",
+    "solution": "1544-make-the-string-great/solution.py",
+    "submission": "https://leetcode.com/problems/make-the-string-great/submissions/2159817454",
+    "submitted_at_display": "Oct 02, 2026 12:37"
+  },
+  {
+    "id": 1572,
+    "slug": "matrix-diagonal-sum",
+    "solution": "1572-matrix-diagonal-sum/solution.py",
+    "submission": "https://leetcode.com/problems/matrix-diagonal-sum/submissions/2186852651",
+    "submitted_at_display": "Nov 01, 2026 15:59"
+  },
+  {
+    "id": 1653,
+    "slug": "minimum-deletions-to-make-string-balanced",
+    "solution": "1653-minimum-deletions-to-make-string-balanced/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/submissions/2185310036",
+    "submitted_at_display": "Oct 30, 2026 14:07"
+  },
+  {
+    "id": 1657,
+    "slug": "determine-if-two-strings-are-close",
+    "solution": "1657-determine-if-two-strings-are-close/solution.py",
+    "submission": "https://leetcode.com/problems/determine-if-two-strings-are-close/submissions/2181418737",
+    "submitted_at_display": "Oct 25, 2026 20:33"
+  },
+  {
+    "id": 1658,
+    "slug": "minimum-operations-to-reduce-x-to-zero",
+    "solution": "1658-minimum-operations-to-reduce-x-to-zero/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2182842382",
+    "submitted_at_display": "Oct 27, 2026 13:17"
+  },
+  {
+    "id": 1700,
+    "slug": "number-of-students-unable-to-eat-lunch",
+    "solution": "1700-number-of-students-unable-to-eat-lunch/solution.py",
+    "submission": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/2157924986",
+    "submitted_at_display": "Sep 30, 2026 14:34"
+  },
+  {
+    "id": 1704,
+    "slug": "determine-if-string-halves-are-alike",
+    "solution": "1704-determine-if-string-halves-are-alike/solution.py",
+    "submission": "https://leetcode.com/problems/determine-if-string-halves-are-alike/submissions/2187515745",
+    "submitted_at_display": "Nov 02, 2026 13:11"
+  },
+  {
+    "id": 1729,
+    "slug": "find-followers-count",
+    "solution": "1729-find-followers-count/solution.sql",
+    "submission": "https://leetcode.com/problems/find-followers-count/submissions/2122987597",
+    "submitted_at_display": "Aug 28, 2026 22:01"
+  },
+  {
+    "id": 1732,
+    "slug": "find-the-highest-altitude",
+    "solution": "1732-find-the-highest-altitude/solution.py",
+    "submission": "https://leetcode.com/problems/find-the-highest-altitude/submissions/2166096777",
+    "submitted_at_display": "Oct 08, 2026 14:45"
+  },
+  {
+    "id": 1748,
+    "slug": "sum-of-unique-elements",
+    "solution": "1748-sum-of-unique-elements/solution.py",
+    "submission": "https://leetcode.com/problems/sum-of-unique-elements/submissions/2184730659",
+    "submitted_at_display": "Oct 29, 2026 20:21"
+  },
+  {
+    "id": 1758,
+    "slug": "minimum-changes-to-make-alternating-binary-string",
+    "solution": "1758-minimum-changes-to-make-alternating-binary-string/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/submissions/2187425209",
+    "submitted_at_display": "Nov 02, 2026 10:48"
+  },
+  {
+    "id": 1768,
+    "slug": "merge-strings-alternately",
+    "solution": "1768-merge-strings-alternately/solution.py",
+    "submission": "https://leetcode.com/problems/merge-strings-alternately/submissions/2156859725",
+    "submitted_at_display": "Sep 29, 2026 15:23"
+  },
+  {
+    "id": 1769,
+    "slug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+    "solution": "1769-minimum-number-of-operations-to-move-all-balls-to-each-box/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/2187007148",
+    "submitted_at_display": "Nov 01, 2026 20:32"
+  },
+  {
+    "id": 1832,
+    "slug": "check-if-the-sentence-is-pangram",
+    "solution": "1832-check-if-the-sentence-is-pangram/solution.py",
+    "submission": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/submissions/2186067676",
+    "submitted_at_display": "Oct 31, 2026 15:58"
+  },
+  {
+    "id": 1834,
+    "slug": "single-threaded-cpu",
+    "solution": "1834-single-threaded-cpu/solution.py",
+    "submission": "https://leetcode.com/problems/single-threaded-cpu/submissions/2142629939",
+    "submitted_at_display": "Sep 15, 2026 20:33"
+  },
+  {
+    "id": 1877,
+    "slug": "minimize-maximum-pair-sum-in-array",
+    "solution": "1877-minimize-maximum-pair-sum-in-array/solution.py",
+    "submission": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/2156137012",
+    "submitted_at_display": "Sep 28, 2026 22:34"
+  },
+  {
+    "id": 1971,
+    "slug": "find-if-path-exists-in-graph",
+    "solution": "1971-find-if-path-exists-in-graph/solution.py",
+    "submission": "https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/2157937692",
+    "submitted_at_display": "Sep 30, 2026 14:55"
+  },
+  {
+    "id": 2058,
+    "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "solution": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.py",
+    "submission": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/submissions/2125749761",
+    "submitted_at_display": "Aug 31, 2026 13:01"
+  },
+  {
+    "id": 2091,
+    "slug": "removing-minimum-and-maximum-from-array",
+    "solution": "2091-removing-minimum-and-maximum-from-array/solution.py",
+    "submission": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/submissions/2125237917",
+    "submitted_at_display": "Aug 30, 2026 23:21"
+  },
+  {
+    "id": 2094,
+    "slug": "finding-3-digit-even-numbers",
+    "solution": "2094-finding-3-digit-even-numbers/solution.py",
+    "submission": "https://leetcode.com/problems/finding-3-digit-even-numbers/submissions/2187510451",
+    "submitted_at_display": "Nov 02, 2026 13:04"
+  },
+  {
+    "id": 2125,
+    "slug": "number-of-laser-beams-in-a-bank",
+    "solution": "2125-number-of-laser-beams-in-a-bank/solution.py",
+    "submission": "https://leetcode.com/problems/number-of-laser-beams-in-a-bank/submissions/2187527723",
+    "submitted_at_display": "Nov 02, 2026 13:28"
+  },
+  {
+    "id": 2130,
+    "slug": "maximum-twin-sum-of-a-linked-list",
+    "solution": "2130-maximum-twin-sum-of-a-linked-list/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/2187530372",
+    "submitted_at_display": "Nov 02, 2026 13:32"
+  },
+  {
+    "id": 2149,
+    "slug": "rearrange-array-elements-by-sign",
+    "solution": "2149-rearrange-array-elements-by-sign/solution.py",
+    "submission": "https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/2187533408",
+    "submitted_at_display": "Nov 02, 2026 13:37"
+  },
+  {
+    "id": 2182,
+    "slug": "construct-string-with-repeat-limit",
+    "solution": "2182-construct-string-with-repeat-limit/solution.py",
+    "submission": "https://leetcode.com/problems/construct-string-with-repeat-limit/submissions/2187416413",
+    "submitted_at_display": "Nov 02, 2026 10:28"
+  },
+  {
+    "id": 2215,
+    "slug": "find-the-difference-of-two-arrays",
+    "solution": "2215-find-the-difference-of-two-arrays/solution.py",
+    "submission": "https://leetcode.com/problems/find-the-difference-of-two-arrays/submissions/2154874641",
+    "submitted_at_display": "Sep 27, 2026 17:53"
+  },
+  {
+    "id": 2236,
+    "slug": "root-equals-sum-of-children",
+    "solution": "2236-root-equals-sum-of-children/solution.py",
+    "submission": "https://leetcode.com/problems/root-equals-sum-of-children/submissions/2187391128",
+    "submitted_at_display": "Nov 02, 2026 09:18"
+  },
+  {
+    "id": 2300,
+    "slug": "successful-pairs-of-spells-and-potions",
+    "solution": "2300-successful-pairs-of-spells-and-potions/solution.py",
+    "submission": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/submissions/2167095103",
+    "submitted_at_display": "Oct 09, 2026 15:13"
+  },
+  {
+    "id": 2348,
+    "slug": "number-of-zero-filled-subarrays",
+    "solution": "2348-number-of-zero-filled-subarrays/solution.py",
+    "submission": "https://leetcode.com/problems/number-of-zero-filled-subarrays/submissions/2186100847",
+    "submitted_at_display": "Oct 31, 2026 17:03"
+  },
+  {
+    "id": 2402,
+    "slug": "meeting-rooms-iii",
+    "solution": "2402-meeting-rooms-iii/solution.py",
+    "submission": "https://leetcode.com/problems/meeting-rooms-iii/submissions/2143736336",
+    "submitted_at_display": "Sep 16, 2026 21:20"
+  },
+  {
+    "id": 2415,
+    "slug": "reverse-odd-levels-of-binary-tree",
+    "solution": "2415-reverse-odd-levels-of-binary-tree/solution.py",
+    "submission": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/submissions/2187551871",
+    "submitted_at_display": "Nov 02, 2026 14:04"
+  },
+  {
+    "id": 2462,
+    "slug": "total-cost-to-hire-k-workers",
+    "solution": "2462-total-cost-to-hire-k-workers/solution.py",
+    "submission": "https://leetcode.com/problems/total-cost-to-hire-k-workers/submissions/2182312875",
+    "submitted_at_display": "Oct 26, 2026 21:47"
+  },
+  {
+    "id": 2483,
+    "slug": "minimum-penalty-for-a-shop",
+    "solution": "2483-minimum-penalty-for-a-shop/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-penalty-for-a-shop/submissions/2186936377",
+    "submitted_at_display": "Nov 01, 2026 18:34"
+  },
+  {
+    "id": 2574,
+    "slug": "left-and-right-sum-differences",
+    "solution": "2574-left-and-right-sum-differences/solution.py",
+    "submission": "https://leetcode.com/problems/left-and-right-sum-differences/submissions/2187520463",
+    "submitted_at_display": "Nov 02, 2026 13:18"
+  },
+  {
+    "id": 2593,
+    "slug": "find-score-of-an-array-after-marking-all-elements",
+    "solution": "2593-find-score-of-an-array-after-marking-all-elements/solution.py",
+    "submission": "https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/submissions/2187423699",
+    "submitted_at_display": "Nov 02, 2026 10:44"
+  },
+  {
+    "id": 2620,
+    "slug": "counter",
+    "solution": "2620-counter/solution.js",
+    "submission": "https://leetcode.com/problems/counter/submissions/2186104758",
+    "submitted_at_display": "Oct 31, 2026 17:10"
+  },
+  {
+    "id": 2667,
+    "slug": "create-hello-world-function",
+    "solution": "2667-create-hello-world-function/solution.js",
+    "submission": "https://leetcode.com/problems/create-hello-world-function/submissions/2186102993",
+    "submitted_at_display": "Oct 31, 2026 17:07"
+  },
+  {
+    "id": 2704,
+    "slug": "to-be-or-not-to-be",
+    "solution": "2704-to-be-or-not-to-be/solution.js",
+    "submission": "https://leetcode.com/problems/to-be-or-not-to-be/submissions/2186107156",
+    "submitted_at_display": "Oct 31, 2026 17:15"
+  },
+  {
+    "id": 2778,
+    "slug": "sum-of-squares-of-special-elements",
+    "solution": "2778-sum-of-squares-of-special-elements/solution.py",
+    "submission": "https://leetcode.com/problems/sum-of-squares-of-special-elements/submissions/2169068868",
+    "submitted_at_display": "Oct 11, 2026 15:12"
+  },
+  {
+    "id": 3568,
+    "slug": "minimum-moves-to-clean-the-classroom",
+    "solution": "3568-minimum-moves-to-clean-the-classroom/solution.py",
+    "submission": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/submissions/2127365271",
+    "submitted_at_display": "Sep 01, 2026 22:09"
+  },
+  {
+    "id": 3718,
+    "slug": "smallest-missing-multiple-of-k",
+    "solution": "3718-smallest-missing-multiple-of-k/solution.py",
+    "submission": "https://leetcode.com/problems/smallest-missing-multiple-of-k/submissions/2119839632",
+    "submitted_at_display": "Aug 25, 2026 22:48"
+  },
+  {
+    "id": 3727,
+    "slug": "maximum-alternating-sum-of-squares",
+    "solution": "3727-maximum-alternating-sum-of-squares/solution.py",
+    "submission": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/submissions/2172098549",
+    "submitted_at_display": "Oct 14, 2026 19:07"
+  },
+  {
+    "id": 3875,
+    "slug": "construct-uniform-parity-array-i",
+    "solution": "3875-construct-uniform-parity-array-i/solution.py",
+    "submission": "https://leetcode.com/problems/construct-uniform-parity-array-i/submissions/2127941267",
+    "submitted_at_display": "Sep 02, 2026 11:14"
+  },
+  {
+    "id": 3876,
+    "slug": "construct-uniform-parity-array-ii",
+    "solution": "3876-construct-uniform-parity-array-ii/solution.py",
+    "submission": "https://leetcode.com/problems/construct-uniform-parity-array-ii/submissions/2129676383",
+    "submitted_at_display": "Sep 03, 2026 20:57"
+  },
+  {
+    "id": 3903,
+    "slug": "smallest-stable-index-i",
+    "solution": "3903-smallest-stable-index-i/solution.py",
+    "submission": "https://leetcode.com/problems/smallest-stable-index-i/submissions/2130694078",
+    "submitted_at_display": "Sep 04, 2026 19:41"
+  },
+  {
+    "id": 3904,
+    "slug": "smallest-stable-index-ii",
+    "solution": "3904-smallest-stable-index-ii/solution.py",
+    "submission": "https://leetcode.com/problems/smallest-stable-index-ii/submissions/2131513411",
+    "submitted_at_display": "Sep 05, 2026 15:48"
   }
 ]
